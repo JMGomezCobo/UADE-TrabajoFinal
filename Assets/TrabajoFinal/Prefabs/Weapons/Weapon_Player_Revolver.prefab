@@ -4841,7 +4841,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 6b6fc11d534b7e049a8267efd5722496, type: 2}
-  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -9782,7 +9781,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 6b6fc11d534b7e049a8267efd5722496, type: 2}
-  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -13929,13 +13927,13 @@ ParticleSystem:
         m_RotationOrder: 4
     maxLights: 20
   TrailModule:
-    enabled: 0
+    enabled: 1
     mode: 0
     ratio: 1
     lifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 1
+      scalar: 0.0078125
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -13999,14 +13997,14 @@ ParticleSystem:
     attachRibbonsToTransform: 0
     colorOverLifetime:
       serializedVersion: 2
-      minMaxState: 0
+      minMaxState: 1
       minColor: {r: 1, g: 1, b: 1, a: 1}
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 1, g: 1, b: 1, a: 1}
-        key1: {r: 1, g: 1, b: 1, a: 1}
-        key2: {r: 0, g: 0, b: 0, a: 0}
+        key0: {r: 0.99215686, g: 0.8666667, b: 0.050980393, a: 0.39215687}
+        key1: {r: 0.99215686, g: 0.8666667, b: 0.050980393, a: 0}
+        key2: {r: 0.9254902, g: 0.45882353, b: 0.019607844, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
         key5: {r: 0, g: 0, b: 0, a: 0}
@@ -14014,14 +14012,14 @@ ParticleSystem:
         key7: {r: 0, g: 0, b: 0, a: 0}
         ctime0: 0
         ctime1: 65535
-        ctime2: 0
+        ctime2: 65535
         ctime3: 0
         ctime4: 0
         ctime5: 0
         ctime6: 0
         ctime7: 0
-        atime0: 0
-        atime1: 65535
+        atime0: 193
+        atime1: 52428
         atime2: 0
         atime3: 0
         atime4: 0
@@ -14063,7 +14061,7 @@ ParticleSystem:
     widthOverTrail:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 1
+      scalar: 0.2
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -14115,14 +14113,14 @@ ParticleSystem:
         m_RotationOrder: 4
     colorOverTrail:
       serializedVersion: 2
-      minMaxState: 0
+      minMaxState: 1
       minColor: {r: 1, g: 1, b: 1, a: 1}
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 1, g: 1, b: 1, a: 1}
-        key1: {r: 1, g: 1, b: 1, a: 1}
-        key2: {r: 0, g: 0, b: 0, a: 0}
+        key0: {r: 0.99215686, g: 0.8666667, b: 0.050980393, a: 0.39215687}
+        key1: {r: 0.99215686, g: 0.8666667, b: 0.050980393, a: 0}
+        key2: {r: 0.9254902, g: 0.45882353, b: 0.019607844, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
         key5: {r: 0, g: 0, b: 0, a: 0}
@@ -14130,14 +14128,14 @@ ParticleSystem:
         key7: {r: 0, g: 0, b: 0, a: 0}
         ctime0: 0
         ctime1: 65535
-        ctime2: 0
+        ctime2: 65535
         ctime3: 0
         ctime4: 0
         ctime5: 0
         ctime6: 0
         ctime7: 0
-        atime0: 0
-        atime1: 65535
+        atime0: 193
+        atime1: 52428
         atime2: 0
         atime3: 0
         atime4: 0
@@ -19905,7 +19903,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 0}
-  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -20239,6 +20236,8 @@ GameObject:
   - component: {fileID: 1235152353}
   - component: {fileID: 1235152354}
   - component: {fileID: 1235152355}
+  - component: {fileID: 6670580727731257652}
+  - component: {fileID: 6722021449594368953}
   m_Layer: 0
   m_Name: WeaponUsedMMFeedback
   m_TagString: Untagged
@@ -20276,9 +20275,11 @@ MonoBehaviour:
   Feedbacks:
   - {fileID: 2685163391474975218}
   - {fileID: 6262953449235277126}
-  - {fileID: 1235152353}
   - {fileID: 1235152354}
+  - {fileID: 1235152353}
   - {fileID: 1235152355}
+  - {fileID: 6670580727731257652}
+  - {fileID: 6722021449594368953}
   InitializationMode: 2
   SafeMode: 3
   Direction: 0
@@ -20328,7 +20329,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Active: 1
-  Label: Particles
+  Label: MMFeedback_ParticlesPlay
   Chance: 100
   Timing:
     TimescaleMode: 0
@@ -20369,7 +20370,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Active: 1
-  Label: Bloom
+  Label: MMFeedback_Bloom
   Chance: 100
   Timing:
     TimescaleMode: 0
@@ -20480,7 +20481,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Active: 1
-  Label: Camera Shake
+  Label: MMFeedback_CameraShake
   Chance: 100
   Timing:
     TimescaleMode: 0
@@ -20525,7 +20526,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Active: 1
-  Label: Chromatic Aberration
+  Label: MMFeedback_ChromaticAberration
   Chance: 100
   Timing:
     TimescaleMode: 0
@@ -20602,7 +20603,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Active: 1
-  Label: Sound
+  Label: MMFeedback_Sound_Shot
   Chance: 100
   Timing:
     TimescaleMode: 0
@@ -20625,8 +20626,16 @@ MonoBehaviour:
     Quantized: 0
     TargetBPM: 120
   DebugActive: 1
-  Sfx: {fileID: 8300000, guid: 03372090399bb424d81d08beb68d6480, type: 3}
-  RandomSfx: []
+  Sfx: {fileID: 0}
+  RandomSfx:
+  - {fileID: 8300000, guid: 2ae4b2c5673d20c4cbc6dc561cc6ef68, type: 3}
+  - {fileID: 8300000, guid: 27b620dc0b7213449af8facb2378c1f7, type: 3}
+  - {fileID: 8300000, guid: ed1581d29b77b7943a89ef3bed826523, type: 3}
+  - {fileID: 8300000, guid: d7cae2f0a3723434eaae9b0949a2135a, type: 3}
+  - {fileID: 8300000, guid: 9f3de8a2c20a4144b9b49cb8d749ed79, type: 3}
+  - {fileID: 8300000, guid: 74326adf73810d54eb52a552cf029082, type: 3}
+  - {fileID: 8300000, guid: f303885c4306b7a46a296385cc416653, type: 3}
+  - {fileID: 8300000, guid: 5a0ef782aac79514aa7809ab4d788b03, type: 3}
   TestButton: 0
   TestStopButton: 0
   PlayMethod: 0
@@ -20635,7 +20644,129 @@ MonoBehaviour:
   MaxVolume: 1
   MinPitch: 1
   MaxPitch: 1
-  SfxAudioMixerGroup: {fileID: 0}
+  SfxAudioMixerGroup: {fileID: -3165942800488051908, guid: 7e984f512e89b60468e829489e8883e3,
+    type: 2}
+--- !u!114 &6670580727731257652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6262953449235277125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c2ce51367856bd49b72678cc4263225, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Active: 1
+  Label: MMFeedback_Sound_BulletFlyby
+  Chance: 100
+  Timing:
+    TimescaleMode: 0
+    ExcludeFromHoldingPauses: 0
+    ContributeToTotalDuration: 1
+    InitialDelay: 0.25
+    CooldownDuration: 0
+    InterruptsOnStop: 1
+    NumberOfRepeats: 0
+    RepeatForever: 0
+    DelayBetweenRepeats: 1
+    MMFeedbacksDirectionCondition: 0
+    PlayDirection: 0
+    ConstantIntensity: 0
+    UseIntensityInterval: 0
+    IntensityIntervalMin: 0
+    IntensityIntervalMax: 0
+    Sequence: {fileID: 0}
+    TrackID: 0
+    Quantized: 0
+    TargetBPM: 120
+  DebugActive: 0
+  Sfx: {fileID: 0}
+  RandomSfx:
+  - {fileID: 8300000, guid: d7d36799b37b9f240964231a422bba42, type: 3}
+  - {fileID: 8300000, guid: 061730a74ef36fd4493863a25f1ab454, type: 3}
+  - {fileID: 8300000, guid: 8ed295570d17e834ba8acc8caeebdd3c, type: 3}
+  - {fileID: 8300000, guid: 3213041e058acd24ea338869f3971c71, type: 3}
+  - {fileID: 8300000, guid: 261008d018525a940b0571b5915995b9, type: 3}
+  - {fileID: 8300000, guid: 05368b9a2ad62fc44ad01f4f39a6cb7f, type: 3}
+  - {fileID: 8300000, guid: ad5876de7a3528e419c6cfc86ef855b4, type: 3}
+  - {fileID: 8300000, guid: 8cfe7117db92fbf43bb9a6aee098b622, type: 3}
+  - {fileID: 8300000, guid: bbbe96ab8ac52844b9ce0ce1c16aa078, type: 3}
+  - {fileID: 8300000, guid: 8d0f2563d39646846908a2d0ee50c40e, type: 3}
+  - {fileID: 8300000, guid: a07f2abf1f6842b4cab9f90b1bfa5c7b, type: 3}
+  - {fileID: 8300000, guid: 8117e2cb876b4764e93f11c0b55134eb, type: 3}
+  - {fileID: 8300000, guid: 62e5877258c0eaa48aa353d339cf2316, type: 3}
+  - {fileID: 8300000, guid: f280bbc55d733524d95306de252ff4c1, type: 3}
+  - {fileID: 8300000, guid: f0cb8c62568ef4d4c96805a1133568f8, type: 3}
+  - {fileID: 8300000, guid: 8d57e07e2ec49b443b37b864e27e4d70, type: 3}
+  - {fileID: 8300000, guid: d4d69a5bb6ea0e54b8d8166ba5e179b6, type: 3}
+  - {fileID: 8300000, guid: e1d276f5f6934ed40a9bd17094c93995, type: 3}
+  - {fileID: 8300000, guid: e61027100e5e10b468c685ba6bd2dc80, type: 3}
+  - {fileID: 8300000, guid: e7e385ad9b0938949b0c5eb0babc1076, type: 3}
+  TestButton: 0
+  TestStopButton: 0
+  PlayMethod: 0
+  PoolSize: 10
+  MinVolume: 1
+  MaxVolume: 1
+  MinPitch: 1
+  MaxPitch: 1
+  SfxAudioMixerGroup: {fileID: -3165942800488051908, guid: 7e984f512e89b60468e829489e8883e3,
+    type: 2}
+--- !u!114 &6722021449594368953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6262953449235277125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c2ce51367856bd49b72678cc4263225, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Active: 1
+  Label: MMFeedback_Sound_ShellDrop
+  Chance: 100
+  Timing:
+    TimescaleMode: 0
+    ExcludeFromHoldingPauses: 0
+    ContributeToTotalDuration: 1
+    InitialDelay: 0.35
+    CooldownDuration: 0
+    InterruptsOnStop: 1
+    NumberOfRepeats: 0
+    RepeatForever: 0
+    DelayBetweenRepeats: 1
+    MMFeedbacksDirectionCondition: 0
+    PlayDirection: 0
+    ConstantIntensity: 0
+    UseIntensityInterval: 0
+    IntensityIntervalMin: 0
+    IntensityIntervalMax: 0
+    Sequence: {fileID: 0}
+    TrackID: 0
+    Quantized: 0
+    TargetBPM: 120
+  DebugActive: 0
+  Sfx: {fileID: 0}
+  RandomSfx:
+  - {fileID: 8300000, guid: 345a0c4f48d626f45b0cd3c38e4914da, type: 3}
+  - {fileID: 8300000, guid: 30949c9e0ce25914394b25f8df37aae7, type: 3}
+  - {fileID: 8300000, guid: 1ac2cc62089d40641a6383e6922183f1, type: 3}
+  - {fileID: 8300000, guid: 9124fbd30a39613498d77aa43af16132, type: 3}
+  - {fileID: 8300000, guid: 00bad3ff193ce2149b6d72c985cde4c4, type: 3}
+  TestButton: 0
+  TestStopButton: 0
+  PlayMethod: 0
+  PoolSize: 10
+  MinVolume: 1
+  MaxVolume: 1
+  MinPitch: 1
+  MaxPitch: 1
+  SfxAudioMixerGroup: {fileID: -3165942800488051908, guid: 7e984f512e89b60468e829489e8883e3,
+    type: 2}
 --- !u!1 &8843384147786206245
 GameObject:
   m_ObjectHideFlags: 0

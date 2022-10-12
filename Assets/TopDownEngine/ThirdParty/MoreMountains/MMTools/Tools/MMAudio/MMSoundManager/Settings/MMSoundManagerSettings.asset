@@ -31,7 +31,7 @@ MonoBehaviour:
     MasterVolume: 1
     MasterOn: 1
     MutedMasterVolume: 0
-    MusicVolume: 0.1
+    MusicVolume: 1
     MusicOn: 1
     MutedMusicVolume: 0
     SfxVolume: 1
