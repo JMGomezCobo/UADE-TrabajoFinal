@@ -29,8 +29,9 @@ GameObject:
   - component: {fileID: 114977332840471576}
   - component: {fileID: 114544991609150994}
   - component: {fileID: 5296060867346013264}
+  - component: {fileID: 3759734232103629119}
   m_Layer: 13
-  m_Name: KoalaNinjaSwordMaster
+  m_Name: KoalaNinjaSwordMaster 1
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -544,7 +545,7 @@ MonoBehaviour:
   HealthBarType: 1
   TimeScale: 0
   HealthBarPrefab: {fileID: 0}
-  Size: {x: 0.5, y: 2}
+  Size: {x: 1.5, y: 0.375}
   BackgroundPadding: {x: 0.05, y: 0.05}
   InitialRotationAngles: {x: 0, y: 0, z: 0}
   ForegroundColor:
@@ -578,8 +579,8 @@ MonoBehaviour:
     m_NumAlphaKeys: 2
   DelayedColor:
     serializedVersion: 2
-    key0: {r: 1, g: 0.41178104, b: 0, a: 1}
-    key1: {r: 1, g: 0.6604273, b: 0, a: 1}
+    key0: {r: 0.9254902, g: 0.45882353, b: 0.019607844, a: 1}
+    key1: {r: 0.9843137, g: 0.54509807, b: 0.13725491, a: 1}
     key2: {r: 0, g: 0, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
@@ -636,8 +637,8 @@ MonoBehaviour:
     m_NumAlphaKeys: 2
   BackgroundColor:
     serializedVersion: 2
-    key0: {r: 0.3207547, g: 0, b: 0, a: 1}
-    key1: {r: 0.3773585, g: 0, b: 0, a: 1}
+    key0: {r: 0.15686275, g: 0.20392157, b: 0.24313726, a: 0.5019608}
+    key1: {r: 0.1882353, g: 0.24705882, b: 0.29411766, a: 0.5019608}
     key2: {r: 0, g: 0, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
@@ -652,7 +653,7 @@ MonoBehaviour:
     ctime5: 0
     ctime6: 0
     ctime7: 0
-    atime0: 0
+    atime0: 386
     atime1: 65535
     atime2: 0
     atime3: 0
@@ -746,6 +747,26 @@ MonoBehaviour:
   Label: 
   AfterTimeMin: 2
   AfterTimeMax: 1
+--- !u!114 &3759734232103629119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1170912388798894}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72de0b0360096ea41a18d17864ecb963, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BoundsBasedOn: 1
+  ExecuteOnEnable:
+    m_PersistentCalls:
+      m_Calls: []
+  ExecuteOnDisable:
+    m_PersistentCalls:
+      m_Calls: []
+  LifeTime: 0
 --- !u!1 &1204245833213918
 GameObject:
   m_ObjectHideFlags: 0
