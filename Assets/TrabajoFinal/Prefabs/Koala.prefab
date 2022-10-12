@@ -10009,7 +10009,7 @@ MonoBehaviour:
   DashMode: 1
   DashSpace: 1
   DashDirection: {x: 1, y: 0, z: 0}
-  DashDistance: 10
+  DashDistance: 15
   DashDuration: 0.2
   DashCurve:
     serializedVersion: 2
