@@ -1,0 +1,3422 @@
+fileFormatVersion: 2
+guid: 1b200a199d8177b4598bcbe13fea6ed0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9586ea31029a5f146ad665c6f446dc34
+      internalID: -2091703852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d5442cde6fe8247a6128d196e4fbd3
+      internalID: -2095922686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77d48fa35bc11443b4e3b3735fac556
+      internalID: 234524368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f11a328c889ed4f90579f94d814bb7
+      internalID: 634956363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f13f4dfb713503409c69fdbf366f6f7
+      internalID: -1206477804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c490e87574ea89c479fb5c4da0aaf86e
+      internalID: 207421218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e6d2abc92f81441a96e1c4b90724a7
+      internalID: 550382150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550517ec87bc6554e8718eb46f45b11a
+      internalID: -913534551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458441b96b632f241a026bdd219b3cf0
+      internalID: -892835203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0ee53f3ae1b5044adb069c1fea8793
+      internalID: 1732864539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b89413ffe6fe94996d2abddf154386
+      internalID: 320629879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78fb785f7e15704c8b708666e95f600
+      internalID: -913045575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf57c3932bf4ec44868bf4da36755f1
+      internalID: -1117085801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316718eb996e5c44a916c5d51ca89b8f
+      internalID: 1937081053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d108c27c67082ce4188695d38be53a1d
+      internalID: -101122590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4e9ff783d22bd408632b9bc755442b
+      internalID: -162939847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd53b109fde2a1e468a7b6c2f06bb104
+      internalID: -524152953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccba771055c3ad4aa39ad9462170d6f
+      internalID: 1916310919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d90ec9eb130034182d0e23d5ba1e26
+      internalID: -90794986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154bdfda150945e47b89106607c4e39c
+      internalID: 1168463135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_20
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a00978132976e4488cbe1c0b94766ca
+      internalID: -560415648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd6799c24ddd974885a7fb8a5d245eb
+      internalID: 1617243982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_22
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1663ee6d051105047a09c7b590a99135
+      internalID: 293075247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_23
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0ae1f4ce5d11c46842fc8e254dc589
+      internalID: 302576702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_24
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd193d46ba7b5d747ac735b2720e51af
+      internalID: -173633664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_25
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd27d18695a52c241a4c4524f0947dbc
+      internalID: 628975304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940e731fc556a5b4294da56604b765e1
+      internalID: 2052531035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2558081058f53d458338379d15f0973
+      internalID: 1776184541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b682e6b8355443749b5f6e98bd178d8a
+      internalID: 1046260202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e4d31dbc84a384f888e86feae41d25
+      internalID: 414698073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_30
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b9c30fe79e0aa48960a54d964b5d97
+      internalID: 1406477894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4b76279bb7c144cb321b411cb721ae
+      internalID: -375349018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_32
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b30f840ef404647b39498067dd7a94
+      internalID: 701611268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_33
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67584133cc9e8864794aeb1bb6d94f83
+      internalID: -18208110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_34
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fde430a9d1b07b44a95ce629ace412d
+      internalID: 1440925529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_35
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadbaa761f534c44ba10c3143819c67a
+      internalID: -1405428461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_36
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7c600b466b6544da7b6ca895e537f2
+      internalID: -226168780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_37
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7e1135d72d82a48b6d04d13f9fbdaa
+      internalID: -248904705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_38
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47323e507ea2d34c91362adf6dd2b54
+      internalID: 463066063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b577e27f24034f45b184b0a3737a02e
+      internalID: -1698407452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_40
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f715996f471454ab4dfcf7030a86ed
+      internalID: -223526621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504d7d5b2e857264d98a45629c838ab2
+      internalID: -848057381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_42
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffe0adcf0d73b44293476231ea0d6cc
+      internalID: 953376773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_43
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e570b7249cc34641b8f05fca71837ad
+      internalID: -820277634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_44
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0599eacfcb745a4295e07d3d5fed263
+      internalID: -124822250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_45
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba6f1d390da74f42af87c522d6295e2
+      internalID: 579151870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_46
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e743e4830a06640a51c6de7efb522e
+      internalID: -2094322120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_47
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0418b12ce1626ff4cbe014188558d6f1
+      internalID: 1770598250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_48
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1332023c99d34945a6092621e114e92
+      internalID: 571611579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_49
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48a142d8442413449955bd721929eee
+      internalID: -1194597619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_50
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68d3f35c6baf404885e115656c66253
+      internalID: -657517840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_51
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fbaa1986be1ce4bb0922951b59bd24
+      internalID: -1913980598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc90bcbe9f1df7e469d6039f7fea8d3e
+      internalID: -1200886660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_53
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088641478bf7f534ab3062afb763356e
+      internalID: -1233464959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_54
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4b748b1f5ebc444be03568feeb9c3f
+      internalID: 1249051560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_55
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a03d59f26ea8841a20f2832d82c53b
+      internalID: -846310164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_56
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf68b31e25dcf9b449d0fc447d33a0ec
+      internalID: -1488118098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_57
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58688e08df5f9214ab0580166a68077e
+      internalID: -1820566248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_58
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203fa082929528a4490bdb161e9a4da8
+      internalID: 1496150214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_59
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8011198078243ee40ac2df6b49a6241d
+      internalID: 1720141619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_60
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ebe0945c9cd144891ca6d7014f733f
+      internalID: 1670888270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_61
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985bccf60e8ab9c4080f493aa9c70ccf
+      internalID: 273439815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_62
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed238dd40114a04e9ac460433411201
+      internalID: 614510228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_63
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636a050daaae1e24db2755167c78639f
+      internalID: 581512482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_64
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efe217db366ef24483c5f9433a4a11a
+      internalID: -901450644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1029809e8454da46870861095cd6a3a
+      internalID: 1163412336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_66
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e34dbe8f1c9fd749943a7533776cb5f
+      internalID: -959696870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_67
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd7bb37f0e0db04d9bb881939275e44
+      internalID: -1396539145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_68
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319f423317e35294ba8ee5e00fb97dc1
+      internalID: 1821173713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_69
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f046b3ce421750947827974014c0b3a9
+      internalID: 1076709453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_70
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf757cc938e60a499dee9f0f75e753e
+      internalID: -1981466851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_71
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebcc96da1328da4abd2587b56d2cd4a
+      internalID: -957342898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_72
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cc2f2a9daba5a428c47b71d013065b
+      internalID: 1128851811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_73
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eb3ffd0271cd24ca0f919a12c55670
+      internalID: 957155365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_74
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467f9ed30e72e5f4c81ec7d53cd7bd13
+      internalID: -1900943349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_75
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9612949341938464fb794634caef55d3
+      internalID: 1086743526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_76
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3cd3673cbd22149977710f2f09be10
+      internalID: 1625586432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_77
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7462e0de98e3f9247b22635bc2ec2ee9
+      internalID: -1105071467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_78
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c85fbc8d5c1a1942978c164b7e53a05
+      internalID: -1153225061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_79
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680962fdaf08d9e4facb775cc365c3e8
+      internalID: 144257587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_80
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe9eedd7c1de3d4ca65dcfb67de6098
+      internalID: 281298329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_81
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5f1453511ef88498f5e1f62d68952d
+      internalID: -148932617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_82
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fa1784f3d287c4b809478e78e8828f
+      internalID: 776654424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_83
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09971f9733b94cc43a0898f850453546
+      internalID: -648599599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_84
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c5a6c2825383846878c2d274dc9a12
+      internalID: -1819638215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_85
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4506874e29ec2c04bb6ce8708d0ecc95
+      internalID: 1460930937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_86
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbc6b407d499ad49843ca18cea75705
+      internalID: 874517416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_87
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b234e3fda135d04aa642c569eb73de0
+      internalID: -223821964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_88
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10550bb77ce8f04481f9de0ba01b403
+      internalID: 952399415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_89
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd03b52faaad01478643cd277dd594f
+      internalID: -1185768342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_90
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71de612b0e91865488203e7ccc085700
+      internalID: 1068969815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_91
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665a2ea6263a9df4ab7477cfab996e82
+      internalID: -407710316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_92
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7706ee59d4f331b4dbb19cbd6d13b129
+      internalID: -578848959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_93
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ce47b8f5fc6b24daa990513c6b0d23
+      internalID: 1073376384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_94
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a079b8f2be239734e8e279aa61f3bd89
+      internalID: -506372599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_95
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3985b716c273e92479cf3daab7217d71
+      internalID: 1006055699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_96
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c7659912eadeb4bbceb7f8d13a0380
+      internalID: 610960120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_97
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae47621ff671bb4aab446270414e327
+      internalID: 711091895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_98
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e48542b8b168d54f91e0ba15dd1bc05
+      internalID: -663613043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_99
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357e94058b2c4244baa48f2bd87948e0
+      internalID: -652709307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_100
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdf0dc7e109c7649b815716e4419555
+      internalID: -378416256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_101
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e87a19c0d41c64dbfc597f5f42c40d
+      internalID: 1348936481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_102
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216e82e79718e0e4e918e70d756191c7
+      internalID: -166907262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_103
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d1e6efd06c86344a10a69fbeacc5be
+      internalID: 1260745095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_104
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0af731dbf3fd5f4687d8d0a9a225b40
+      internalID: -75180589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_105
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac11314ee9b9a4458c330410966b2d8
+      internalID: -1724023562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_106
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee84ff9c7d4dd794797d7895e3b80a9f
+      internalID: -1904856532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_107
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9ec4963b902634f81c8eee29d9443c
+      internalID: 459605548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_108
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e70eb07e13513644a427f76bc1d0a83
+      internalID: -1686250609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_109
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8e8188c9eb2ea4689c0876916075be
+      internalID: -1073788681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_110
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fa35656faa79741a653c9e6c91678a
+      internalID: -682568378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_111
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fa152d5a05b0e43bfed3167ecf0ff8
+      internalID: 834235435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_112
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbb714887662d643bf5d5a0b1521445
+      internalID: 348240587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_113
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd7973821a018340a4ec2c4ecb5f653
+      internalID: 1283392732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_114
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df14703744574a845bd9602f5bc08acd
+      internalID: -781574551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_115
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b4a12b4af00354584bf2a05e4c9d28
+      internalID: -2066348065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_116
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9343801750a1634b9bceebf2516b1f5
+      internalID: -1020574331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_117
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4847a3c9f8f543947bc8c76cf22e54ed
+      internalID: -2036866553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_118
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdb6f88e755f65478f378974d2c70e2
+      internalID: 935469672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_119
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e4c790ff3805b4c9b271503f3ca3e9
+      internalID: 95984753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_120
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ecd4b5c11908c48823fe3df6fda57b
+      internalID: 2055897631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_121
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21336f357d0bfe441928f4e9a4357e40
+      internalID: -117543646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_122
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33ab25c9803459419ae102a3b38a274
+      internalID: -408823579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_123
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420336949cc003945ad1aa79dc312e59
+      internalID: -402976927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_124
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd44a0a8946e22c44a177e01dec57cee
+      internalID: 1045094700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_125
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68097ebb1b20e76479d55ed3b57b4aec
+      internalID: 531516495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_126
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc48aa00630c77949a9cc9a2bb7cc52e
+      internalID: -1042550361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_127
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51d20a0ea89c9e439bbeb9771e670c4
+      internalID: 1828148047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_128
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0400778587aba464c98f0ae01d8a7621
+      internalID: 547887269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_129
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d034dabd6ba33374b9610bbe3c58535a
+      internalID: 46094507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_130
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3fd21db0ea5844193433aad624b4fe
+      internalID: -434349579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_131
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bf16d9576fe9c42a3050b707fcf1a1
+      internalID: -164772926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_132
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a8f56d5de855c4ea85befdc6940c2c
+      internalID: -792353165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_133
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb19967d90ca9d428722af044436459
+      internalID: -1266194094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_134
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f5127a8e3542a42894640eaa75a9b5
+      internalID: 1201025134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_135
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbce11cc454cfda43b55daec6e670487
+      internalID: 314235022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_136
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baab72e4a86d6242ac49039dd375977
+      internalID: -543082800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_137
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594cc036145241641bf5c3ad0e88905a
+      internalID: 806099533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_138
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cac2cc473d57f84f9e5cbea3af87f91
+      internalID: -912072350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_139
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36f8a5954a6dd24bb984d8ef54899d9
+      internalID: 1955309790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_140
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c13d1e6d41fcf94eaca46303243f8bb
+      internalID: -1715102442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_141
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965f1e7de36151f4db8e2bc3661a25d4
+      internalID: -791418932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_142
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5497e25d73ccf214a9f812f3c18105ba
+      internalID: 556236744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_143
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 38
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0e0d61f672ab74a94facfc3cfac0e6
+      internalID: 755460322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_144
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 38
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff0ef1a692b5d04d90879c5b208ae72
+      internalID: -1555157079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_145
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 38
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9963f1b706160ac429e6ec588456568d
+      internalID: 353463455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_146
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 38
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e83835fc4a6f544fab440cce44a0e96
+      internalID: -943269723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_147
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 38
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5257244f1bf75f9439ffec3e1feaf42c
+      internalID: 1794190934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_148
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 38
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f39036b003cf1d408689b2e16e73982
+      internalID: -812196572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Yellow_149
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 38
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb17008c9b6e8694aaf68135962f9b47
+      internalID: -1882433908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pickups_Ammo_Boxes_Yellow_21: 1617243982
+      Pickups_Ammo_Boxes_Yellow_148: -812196572
+      Pickups_Ammo_Boxes_Yellow_9: 1732864539
+      Pickups_Ammo_Boxes_Yellow_42: 953376773
+      Pickups_Ammo_Boxes_Yellow_74: -1900943349
+      Pickups_Ammo_Boxes_Yellow_46: -2094322120
+      Pickups_Ammo_Boxes_Yellow_147: 1794190934
+      Pickups_Ammo_Boxes_Yellow_48: 571611579
+      Pickups_Ammo_Boxes_Yellow_82: 776654424
+      Pickups_Ammo_Boxes_Yellow_23: 302576702
+      Pickups_Ammo_Boxes_Yellow_109: -1073788681
+      Pickups_Ammo_Boxes_Yellow_130: -434349579
+      Pickups_Ammo_Boxes_Yellow_127: 1828148047
+      Pickups_Ammo_Boxes_Yellow_71: -957342898
+      Pickups_Ammo_Boxes_Yellow_64: -901450644
+      Pickups_Ammo_Boxes_Yellow_86: 874517416
+      Pickups_Ammo_Boxes_Yellow_88: 952399415
+      Pickups_Ammo_Boxes_Yellow_90: 1068969815
+      Pickups_Ammo_Boxes_Yellow_114: -781574551
+      Pickups_Ammo_Boxes_Yellow_141: -791418932
+      Pickups_Ammo_Boxes_Yellow_53: -1233464959
+      Pickups_Ammo_Boxes_Yellow_131: -164772926
+      Pickups_Ammo_Boxes_Yellow_5: 207421218
+      Pickups_Ammo_Boxes_Yellow_93: 1073376384
+      Pickups_Ammo_Boxes_Yellow_29: 414698073
+      Pickups_Ammo_Boxes_Yellow_70: -1981466851
+      Pickups_Ammo_Boxes_Yellow_36: -226168780
+      Pickups_Ammo_Boxes_Yellow_24: -173633664
+      Pickups_Ammo_Boxes_Yellow_49: -1194597619
+      Pickups_Ammo_Boxes_Yellow_52: -1200886660
+      Pickups_Ammo_Boxes_Yellow_7: -913534551
+      Pickups_Ammo_Boxes_Yellow_107: 459605548
+      Pickups_Ammo_Boxes_Yellow_133: -1266194094
+      Pickups_Ammo_Boxes_Yellow_56: -1488118098
+      Pickups_Ammo_Boxes_Yellow_97: 711091895
+      Pickups_Ammo_Boxes_Yellow_38: 463066063
+      Pickups_Ammo_Boxes_Yellow_58: 1496150214
+      Pickups_Ammo_Boxes_Yellow_138: -912072350
+      Pickups_Ammo_Boxes_Yellow_115: -2066348065
+      Pickups_Ammo_Boxes_Yellow_140: -1715102442
+      Pickups_Ammo_Boxes_Yellow_100: -378416256
+      Pickups_Ammo_Boxes_Yellow_12: -1117085801
+      Pickups_Ammo_Boxes_Yellow_83: -648599599
+      Pickups_Ammo_Boxes_Yellow_87: -223821964
+      Pickups_Ammo_Boxes_Yellow_22: 293075247
+      Pickups_Ammo_Boxes_Yellow_137: 806099533
+      Pickups_Ammo_Boxes_Yellow_110: -682568378
+      Pickups_Ammo_Boxes_Yellow_103: 1260745095
+      Pickups_Ammo_Boxes_Yellow_117: -2036866553
+      Pickups_Ammo_Boxes_Yellow_124: 1045094700
+      Pickups_Ammo_Boxes_Yellow_129: 46094507
+      Pickups_Ammo_Boxes_Yellow_40: -223526621
+      Pickups_Ammo_Boxes_Yellow_80: 281298329
+      Pickups_Ammo_Boxes_Yellow_105: -1724023562
+      Pickups_Ammo_Boxes_Yellow_19: 1168463135
+      Pickups_Ammo_Boxes_Yellow_35: -1405428461
+      Pickups_Ammo_Boxes_Yellow_6: 550382150
+      Pickups_Ammo_Boxes_Yellow_50: -657517840
+      Pickups_Ammo_Boxes_Yellow_68: 1821173713
+      Pickups_Ammo_Boxes_Yellow_84: -1819638215
+      Pickups_Ammo_Boxes_Yellow_95: 1006055699
+      Pickups_Ammo_Boxes_Yellow_51: -1913980598
+      Pickups_Ammo_Boxes_Yellow_142: 556236744
+      Pickups_Ammo_Boxes_Yellow_113: 1283392732
+      Pickups_Ammo_Boxes_Yellow_102: -166907262
+      Pickups_Ammo_Boxes_Yellow_135: 314235022
+      Pickups_Ammo_Boxes_Yellow_8: -892835203
+      Pickups_Ammo_Boxes_Yellow_62: 614510228
+      Pickups_Ammo_Boxes_Yellow_37: -248904705
+      Pickups_Ammo_Boxes_Yellow_17: 1916310919
+      Pickups_Ammo_Boxes_Yellow_116: -1020574331
+      Pickups_Ammo_Boxes_Yellow_112: 348240587
+      Pickups_Ammo_Boxes_Yellow_146: -943269723
+      Pickups_Ammo_Boxes_Yellow_79: 144257587
+      Pickups_Ammo_Boxes_Yellow_121: -117543646
+      Pickups_Ammo_Boxes_Yellow_20: -560415648
+      Pickups_Ammo_Boxes_Yellow_149: -1882433908
+      Pickups_Ammo_Boxes_Yellow_91: -407710316
+      Pickups_Ammo_Boxes_Yellow_63: 581512482
+      Pickups_Ammo_Boxes_Yellow_67: -1396539145
+      Pickups_Ammo_Boxes_Yellow_120: 2055897631
+      Pickups_Ammo_Boxes_Yellow_72: 1128851811
+      Pickups_Ammo_Boxes_Yellow_1: -2095922686
+      Pickups_Ammo_Boxes_Yellow_132: -792353165
+      Pickups_Ammo_Boxes_Yellow_119: 95984753
+      Pickups_Ammo_Boxes_Yellow_2: 234524368
+      Pickups_Ammo_Boxes_Yellow_125: 531516495
+      Pickups_Ammo_Boxes_Yellow_118: 935469672
+      Pickups_Ammo_Boxes_Yellow_39: -1698407452
+      Pickups_Ammo_Boxes_Yellow_10: 320629879
+      Pickups_Ammo_Boxes_Yellow_31: -375349018
+      Pickups_Ammo_Boxes_Yellow_27: 1776184541
+      Pickups_Ammo_Boxes_Yellow_89: -1185768342
+      Pickups_Ammo_Boxes_Yellow_108: -1686250609
+      Pickups_Ammo_Boxes_Yellow_18: -90794986
+      Pickups_Ammo_Boxes_Yellow_73: 957155365
+      Pickups_Ammo_Boxes_Yellow_55: -846310164
+      Pickups_Ammo_Boxes_Yellow_32: 701611268
+      Pickups_Ammo_Boxes_Yellow_78: -1153225061
+      Pickups_Ammo_Boxes_Yellow_75: 1086743526
+      Pickups_Ammo_Boxes_Yellow_30: 1406477894
+      Pickups_Ammo_Boxes_Yellow_41: -848057381
+      Pickups_Ammo_Boxes_Yellow_33: -18208110
+      Pickups_Ammo_Boxes_Yellow_0: -2091703852
+      Pickups_Ammo_Boxes_Yellow_4: -1206477804
+      Pickups_Ammo_Boxes_Yellow_81: -148932617
+      Pickups_Ammo_Boxes_Yellow_143: 755460322
+      Pickups_Ammo_Boxes_Yellow_61: 273439815
+      Pickups_Ammo_Boxes_Yellow_85: 1460930937
+      Pickups_Ammo_Boxes_Yellow_60: 1670888270
+      Pickups_Ammo_Boxes_Yellow_144: -1555157079
+      Pickups_Ammo_Boxes_Yellow_25: 628975304
+      Pickups_Ammo_Boxes_Yellow_13: 1937081053
+      Pickups_Ammo_Boxes_Yellow_76: 1625586432
+      Pickups_Ammo_Boxes_Yellow_77: -1105071467
+      Pickups_Ammo_Boxes_Yellow_65: 1163412336
+      Pickups_Ammo_Boxes_Yellow_92: -578848959
+      Pickups_Ammo_Boxes_Yellow_96: 610960120
+      Pickups_Ammo_Boxes_Yellow_106: -1904856532
+      Pickups_Ammo_Boxes_Yellow_98: -663613043
+      Pickups_Ammo_Boxes_Yellow_66: -959696870
+      Pickups_Ammo_Boxes_Yellow_145: 353463455
+      Pickups_Ammo_Boxes_Yellow_11: -913045575
+      Pickups_Ammo_Boxes_Yellow_47: 1770598250
+      Pickups_Ammo_Boxes_Yellow_59: 1720141619
+      Pickups_Ammo_Boxes_Yellow_111: 834235435
+      Pickups_Ammo_Boxes_Yellow_69: 1076709453
+      Pickups_Ammo_Boxes_Yellow_43: -820277634
+      Pickups_Ammo_Boxes_Yellow_126: -1042550361
+      Pickups_Ammo_Boxes_Yellow_28: 1046260202
+      Pickups_Ammo_Boxes_Yellow_57: -1820566248
+      Pickups_Ammo_Boxes_Yellow_54: 1249051560
+      Pickups_Ammo_Boxes_Yellow_128: 547887269
+      Pickups_Ammo_Boxes_Yellow_139: 1955309790
+      Pickups_Ammo_Boxes_Yellow_14: -101122590
+      Pickups_Ammo_Boxes_Yellow_94: -506372599
+      Pickups_Ammo_Boxes_Yellow_16: -524152953
+      Pickups_Ammo_Boxes_Yellow_45: 579151870
+      Pickups_Ammo_Boxes_Yellow_26: 2052531035
+      Pickups_Ammo_Boxes_Yellow_99: -652709307
+      Pickups_Ammo_Boxes_Yellow_34: 1440925529
+      Pickups_Ammo_Boxes_Yellow_123: -402976927
+      Pickups_Ammo_Boxes_Yellow_136: -543082800
+      Pickups_Ammo_Boxes_Yellow_15: -162939847
+      Pickups_Ammo_Boxes_Yellow_3: 634956363
+      Pickups_Ammo_Boxes_Yellow_44: -124822250
+      Pickups_Ammo_Boxes_Yellow_101: 1348936481
+      Pickups_Ammo_Boxes_Yellow_104: -75180589
+      Pickups_Ammo_Boxes_Yellow_134: 1201025134
+      Pickups_Ammo_Boxes_Yellow_122: -408823579
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

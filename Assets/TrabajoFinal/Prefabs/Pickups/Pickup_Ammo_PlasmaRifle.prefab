@@ -270,6 +270,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4476222099617946}
   - component: {fileID: 212820380914794750}
+  - component: {fileID: 8345265910278492595}
   m_Layer: 0
   m_Name: Pickup_Ammo_Sprite
   m_TagString: Untagged
@@ -333,7 +334,7 @@ SpriteRenderer:
   m_SortingLayerID: 1603220759
   m_SortingLayer: 3
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1536967928, guid: 3642d304bb2904d4d9c79a7f9889c655, type: 3}
+  m_Sprite: {fileID: -320352450, guid: 550a66bb19774904ba71b4407d857adc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -344,6 +345,26 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &8345265910278492595
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1802976535126910}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9c0b7aa6ad8abb94586136d07dee6179, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &4480976977711212526
 GameObject:
   m_ObjectHideFlags: 0

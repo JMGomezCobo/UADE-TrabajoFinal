@@ -1,0 +1,3422 @@
+fileFormatVersion: 2
+guid: 80e5701e935aa724fb7859a5fac88bfb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44a050d51863a14298c8755a440a6d6
+      internalID: -1968604111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b104931c69af748adcc33d33cbbb18
+      internalID: 172357431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22493bb0b23e8ff48a2d5f45661526df
+      internalID: 721956631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc29986d1af88f408e08e159045d962
+      internalID: 611551600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196ef6731bcc599428c371288fbc62d0
+      internalID: -842143458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce37a507da168d43be64b511384065d
+      internalID: 192659209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d4451c1959bf443a48171dc61116d9
+      internalID: 1034644214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c505a03f19dcb449d5a4e474907798
+      internalID: -1788027569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5060d2e67652e4b87520255bce4689
+      internalID: 379360141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e47c2d29ffa55f49b973c19ef888129
+      internalID: 1159784511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709f08a662682bb42afcf60079097ffa
+      internalID: -36749400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f03d18a53d2df040bedc272e0c253a1
+      internalID: 322798899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 390
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89bf19842d5f9740a123f97f4ecc103
+      internalID: -2091923369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940725c0a5bce7f4ab56aebc7d0cecbf
+      internalID: 38444178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45e259129c7e16469af7b074fd4b5e1
+      internalID: 977780026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22bd35622099064498977de9b4bc9a6
+      internalID: 913931580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066f4572f5722ea46bd039a8e35ad18a
+      internalID: -1065437313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4547d9ceee775de46ac37f989aa5cb8b
+      internalID: 1950360733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c2eb4dd5e671644bbffe8fdcd1f818
+      internalID: -1437559538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661823ef769580349be932dae9ae772c
+      internalID: 808177794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_20
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418aa301f04cfd14493965df8ce3e33e
+      internalID: -2028486249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0483d0727c4653649b655347a1c04f22
+      internalID: 43394144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_22
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f4ba300ee2f0f40b80c099d410723e
+      internalID: -449609435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_23
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8a0de7ef606324eb9bd161a6376fe9
+      internalID: -739359404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_24
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee2a53238f034b4a8c31c9d49389127
+      internalID: -1196368176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_25
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 358
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ec115d2a897084995cac50be3a4107
+      internalID: 1677781570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f691db2dff27646b3c478eb9dfca72
+      internalID: 1457149927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b212fe183948bd499cf3dd6fc92a159
+      internalID: -918718658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bab822824433348b3b857f47e78344
+      internalID: 8579149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc621969685d16442a8caa88d9d6a34a
+      internalID: -1141812115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_30
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08a33f7dfbab9e4c8c2f9f0b363210e
+      internalID: 32684502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074bffbe786eb5e40b8ba6e3cba0ad42
+      internalID: -796608637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_32
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c58b806707eb0643b54249b2e371bb0
+      internalID: -1565489686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_33
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ed1ce52a7d79c4ebdd87d19e555e0c
+      internalID: 1724399248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_34
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8e4a4f6cf532445ac68c95b594f165
+      internalID: 1658888806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_35
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15773e28b0b1964c8b509b0ea6e7614
+      internalID: 1119885368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_36
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd8bd7e569e8bd428c7b3129e3222df
+      internalID: -284484611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_37
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d887358dcab20418dcf8b260300911
+      internalID: 635125539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_38
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16898c0b57a7624b91d1d6e44bc2f04
+      internalID: 168606375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e539db7f27d56ae4f8d51e21f9ef698e
+      internalID: 1836369072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_40
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7c62a4c13770f4fab8d6422665a0d4
+      internalID: 1788287899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c812fd3940a4b3478543fce114cb0e7
+      internalID: 386292723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_42
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdcf1795a070a546a428de71e012897
+      internalID: 954531715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_43
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0924c2f8e22e2df45b55a0eb2bf5e9fc
+      internalID: 1361825157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_44
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f21ed1ebd3db24ead0ffa301348b95
+      internalID: -1037447043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_45
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b3bc6b349d2f54db2e07db9d6c42ea
+      internalID: -475545025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_46
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8862dc408a2ff1840a1841d137421973
+      internalID: 1748103955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_47
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb13bd5e943dcc4bb88ffddacaadcc6
+      internalID: -291264078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_48
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0633a00c61560b448aeeeb58c0a06812
+      internalID: -987541806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_49
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117579442b0fa8642b3a31791246cc30
+      internalID: 1266400892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_50
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b6912b2399e4f4a960e47046f3ad07
+      internalID: -1695618705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_51
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 294
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a84123c734c7347ae7ccb17af09188
+      internalID: -88471515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83493b79cfba14e4dbfe1ac8ef756d7e
+      internalID: 663770667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_53
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8b9064262529d47abe615c56643357
+      internalID: -138006212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_54
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfd4c73cd066b647825580cd9aa8b3a
+      internalID: -498484394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_55
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a620177890ac7546ae1c6a3ba329aa9
+      internalID: 161734022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_56
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e22378eabed5de43a5e7eebb106ea89
+      internalID: 744175131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_57
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cb4061d1bce294d9c93f7ca0fedb1d
+      internalID: 1755646139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_58
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0bf8c0cedc5c743bd621bb2d60ead8
+      internalID: -253095834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_59
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfe4718d5c98034bba3c927e3db9c7b
+      internalID: -1546259062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_60
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaea9b9bec41ea844be1fcacac48d400
+      internalID: 574624994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_61
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e6a98dcfe68b34ea271918a844aace
+      internalID: -1678649717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_62
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273d01ae89e920f43a4feb8d2b7787cd
+      internalID: -2040392761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_63
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853b19917cea8da469376f2428d92c67
+      internalID: 1546797155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_64
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 262
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b64fcf03f4c97f41a037a1c16249a0b
+      internalID: 433403183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c170725df6a5a024783ef02a3d86fab9
+      internalID: -36798349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_66
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9840ae0f4f93aac498ac9e10862be3b3
+      internalID: 1444199900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_67
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81efd2da5c54f364e951057a98e341ed
+      internalID: 1644240146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_68
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3842a761df1264b4a9feb7594964693d
+      internalID: -154518660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_69
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d785eeb0ddf3d02459c36eaa8c7cdb7e
+      internalID: -502364571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_70
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ced3ef6147a0ec4a8bec07a8fc333fd
+      internalID: 756250432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_71
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea411b52d6604547a0f14fdc3cd107d
+      internalID: -1293630121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_72
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098b1bb58e901324b9c46771a15819f1
+      internalID: 119075965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_73
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dbb03a19881f741843cdcb39a4dbdd
+      internalID: -950624696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_74
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9c02532b49dab479848bfbd8d309e3
+      internalID: 1420606860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_75
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e075375658a7524195af5d969585ff5
+      internalID: 738137789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_76
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e53a1dd748c9a49bd25a2862c76451
+      internalID: 230283504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_77
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e714640591f5de47812b27108ea63d0
+      internalID: -152449512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_78
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0efaa916c443048a6c767cec357d23
+      internalID: -615323757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_79
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f14b6283876f1245bbf6b6ebbb2c49e
+      internalID: 814743116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_80
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a5297c59932ea44b47075ef164a002
+      internalID: -841754163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_81
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b1da0bc83cae64baab372a5c3e1c9d
+      internalID: 663657650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_82
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205d09744bd7a384fb7f577d8fc80758
+      internalID: 476446509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_83
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70bbf184d3011e4f8397e1831d39e95
+      internalID: -1288977326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_84
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed719e785e7eb04bb9af3bf141ea7b5
+      internalID: 541680835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_85
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814b2b782b39c2d48857568b520a1d6b
+      internalID: -72618201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_86
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3c46ccfc068de4e8fbfcf365c83ae3
+      internalID: 149561587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_87
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ef1d7bdec2e7946b0c57e4a59f3ad7
+      internalID: 174512048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_88
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27082867ef4b1e742a15b257d2c6b921
+      internalID: 53130851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_89
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc4a6c9ee1dec74a9f0c6219d39ae48
+      internalID: 1952724586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_90
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80acbb964bf123844bd22c750a43205c
+      internalID: -600405480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_91
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e02bcb3f84b9254e9edb2c2eb335ca9
+      internalID: -1685159779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_92
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c4947db09b4b1448e8f02cb27ac475
+      internalID: 570406006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_93
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbef6e54554b7ea4d9861766682f97dc
+      internalID: 1749341771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_94
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8032c8831ff51d449f62b28d4679eae
+      internalID: -912402244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_95
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1d3ad79bddb8d47a3c5cbd0c2c07a6
+      internalID: 115068301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_96
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bb62018b0707749a14964402c3dacc
+      internalID: -376017152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_97
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7f02cf081f4d146898c59a81aa40eb
+      internalID: -846134755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_98
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f6c07f86857204d911c993c6a1ee87
+      internalID: -804839118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_99
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d902bf21845a3b74ab0e9dec29273c9d
+      internalID: 1723314569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_100
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acc4de81a3df2b40a0c0648c9155571
+      internalID: 1871091291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_101
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f534a26ee63e9cb46a98e89f594cec85
+      internalID: -736278746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_102
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b2e34512f9f6c41ba501db890c78d0
+      internalID: 605771388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_103
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 166
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60462ae11ca05f646b337c0a1e8b2ae6
+      internalID: -278197104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_104
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31770106651439a4bb10e64388be4e5f
+      internalID: 1277670934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_105
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95efad7377ae9f4c9271bba926b803f
+      internalID: -901538295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_106
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8a655ebdd4f6740aa1fc8f6fed0877
+      internalID: -440605013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_107
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26a247c9cb3a414d8b307c5f11a4ec8
+      internalID: -1274972007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_108
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18481b6fd61a12144903ecf1618bb52f
+      internalID: 703673586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_109
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fe4cbf1fe4392438033a4ef311e697
+      internalID: -70754530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_110
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e18c8ef1281b5849bf15cd07a50698e
+      internalID: 2071512899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_111
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ef6cb18f748494ba2c161048bb8e25
+      internalID: 1129034469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_112
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c389fec9abf1975478a5206923b22f2a
+      internalID: 2107770839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_113
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8570b2752096604fac14ae65abe6528
+      internalID: 668647986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_114
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87477d42e72b3834f9b0cd179c9f4353
+      internalID: -260712780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_115
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108c322c855b85143afb057ead3f256b
+      internalID: -430235760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_116
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 134
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dedaa61ee75a941995cd70767e5660
+      internalID: -2059164201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_117
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ea55b46a97efa4ab399a858337439a
+      internalID: -1075735787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_118
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fdaba55a762b043b42134436088177
+      internalID: -1253761567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_119
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f66f8e6692b5024ea05df06ea6b9277
+      internalID: -1560557783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_120
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea55920a45a44e4e9318727a6bd995f
+      internalID: -317267795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_121
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c0bbd6a5b92ad44ba1c6769e6b0b04
+      internalID: -361402161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_122
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9fc86919fff0e4690a9fe464cbd479
+      internalID: -1281965843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_123
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f040c912ffb504f884c61a44666c91
+      internalID: -884174090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_124
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9248c490b9b2ea94b80678f84ecc33df
+      internalID: -1966560387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_125
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a5702d2c0426a4db56a4bb07b3c1e5
+      internalID: 984469427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_126
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655941c72ae9a5b45a53342174df9390
+      internalID: 1345371282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_127
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a074960e0bae34e9f9a5562e79df49
+      internalID: 2122262896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_128
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9be17188f5d694a8acfc6a8d899688
+      internalID: -1691478994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_129
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 102
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8409300c0e55fae428eedf0adbfe3e7a
+      internalID: -1637704801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_130
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ddd4d5c5f143d48baef61f739cd70c
+      internalID: -930492779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_131
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a739528b153b9724e88f289f09e9e092
+      internalID: -1025198235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_132
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5523d02dc118684da5bee38affefd2a
+      internalID: 1799250204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_133
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856f82ff7ab8e0a4a81bf336eada06e5
+      internalID: -1338667861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_134
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fdfd26300c8284dab00bf881b108ca
+      internalID: -1270569155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_135
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b548dcc7f240e4a4082ba7c372a6b064
+      internalID: -802950377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_136
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e9848ade9d80a48bb8a9d25365183a
+      internalID: 572466230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_137
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c2ae1ea4023ed44b0c7cc298ce657e
+      internalID: -2055499718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_138
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62161f174d3639546b3bb1e0ae9d5ae1
+      internalID: -983787874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_139
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090fcd013759d8c4c8ebe2101328ed22
+      internalID: 1409481470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_140
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccba8d70e33ac94690b3bf431847e96
+      internalID: -1731914034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_141
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd0660aa77cd6c4f8e0116a5ed6ef7a
+      internalID: -1739704840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_142
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 70
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1032053845ae844b06de2cc6bb4f9c
+      internalID: -1724788207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_143
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 38
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57a9f185883ec040b6513782a589427
+      internalID: 862035651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_144
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 38
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500fbe3ba903cd14489a4cf3894187a3
+      internalID: -853136953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_145
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 38
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670fce9be0c60a045a62792afe9c783e
+      internalID: 1982545662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_146
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 38
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388a8f355e3d29d4da63696fc3eb2f8a
+      internalID: 1294546103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_147
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 38
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13daf3e64c570494e9a20f918e6a5f3e
+      internalID: -508031273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_148
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 38
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f9fd408bb9b42409afdb07df41edb7
+      internalID: 647181214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickups_Ammo_Boxes_Orange_149
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 38
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6207a78e81bb0d14592ac51f741af4c0
+      internalID: -1536465624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pickups_Ammo_Boxes_Orange_35: 1119885368
+      Pickups_Ammo_Boxes_Orange_99: 1723314569
+      Pickups_Ammo_Boxes_Orange_112: 2107770839
+      Pickups_Ammo_Boxes_Orange_135: -802950377
+      Pickups_Ammo_Boxes_Orange_148: 647181214
+      Pickups_Ammo_Boxes_Orange_29: -1141812115
+      Pickups_Ammo_Boxes_Orange_94: -912402244
+      Pickups_Ammo_Boxes_Orange_100: 1871091291
+      Pickups_Ammo_Boxes_Orange_126: 1345371282
+      Pickups_Ammo_Boxes_Orange_90: -600405480
+      Pickups_Ammo_Boxes_Orange_75: 738137789
+      Pickups_Ammo_Boxes_Orange_17: 1950360733
+      Pickups_Ammo_Boxes_Orange_67: 1644240146
+      Pickups_Ammo_Boxes_Orange_108: 703673586
+      Pickups_Ammo_Boxes_Orange_89: 1952724586
+      Pickups_Ammo_Boxes_Orange_54: -498484394
+      Pickups_Ammo_Boxes_Orange_2: 721956631
+      Pickups_Ammo_Boxes_Orange_33: 1724399248
+      Pickups_Ammo_Boxes_Orange_101: -736278746
+      Pickups_Ammo_Boxes_Orange_61: -1678649717
+      Pickups_Ammo_Boxes_Orange_11: 322798899
+      Pickups_Ammo_Boxes_Orange_12: -2091923369
+      Pickups_Ammo_Boxes_Orange_119: -1560557783
+      Pickups_Ammo_Boxes_Orange_93: 1749341771
+      Pickups_Ammo_Boxes_Orange_30: 32684502
+      Pickups_Ammo_Boxes_Orange_38: 168606375
+      Pickups_Ammo_Boxes_Orange_57: 1755646139
+      Pickups_Ammo_Boxes_Orange_47: -291264078
+      Pickups_Ammo_Boxes_Orange_137: -2055499718
+      Pickups_Ammo_Boxes_Orange_134: -1270569155
+      Pickups_Ammo_Boxes_Orange_120: -317267795
+      Pickups_Ammo_Boxes_Orange_44: -1037447043
+      Pickups_Ammo_Boxes_Orange_69: -502364571
+      Pickups_Ammo_Boxes_Orange_60: 574624994
+      Pickups_Ammo_Boxes_Orange_8: 379360141
+      Pickups_Ammo_Boxes_Orange_84: 541680835
+      Pickups_Ammo_Boxes_Orange_85: -72618201
+      Pickups_Ammo_Boxes_Orange_19: 808177794
+      Pickups_Ammo_Boxes_Orange_118: -1253761567
+      Pickups_Ammo_Boxes_Orange_131: -1025198235
+      Pickups_Ammo_Boxes_Orange_15: 913931580
+      Pickups_Ammo_Boxes_Orange_37: 635125539
+      Pickups_Ammo_Boxes_Orange_70: 756250432
+      Pickups_Ammo_Boxes_Orange_109: -70754530
+      Pickups_Ammo_Boxes_Orange_124: -1966560387
+      Pickups_Ammo_Boxes_Orange_127: 2122262896
+      Pickups_Ammo_Boxes_Orange_64: 433403183
+      Pickups_Ammo_Boxes_Orange_78: -615323757
+      Pickups_Ammo_Boxes_Orange_3: 611551600
+      Pickups_Ammo_Boxes_Orange_138: -983787874
+      Pickups_Ammo_Boxes_Orange_5: 192659209
+      Pickups_Ammo_Boxes_Orange_40: 1788287899
+      Pickups_Ammo_Boxes_Orange_114: -260712780
+      Pickups_Ammo_Boxes_Orange_79: 814743116
+      Pickups_Ammo_Boxes_Orange_20: -2028486249
+      Pickups_Ammo_Boxes_Orange_121: -361402161
+      Pickups_Ammo_Boxes_Orange_13: 38444178
+      Pickups_Ammo_Boxes_Orange_143: 862035651
+      Pickups_Ammo_Boxes_Orange_14: 977780026
+      Pickups_Ammo_Boxes_Orange_39: 1836369072
+      Pickups_Ammo_Boxes_Orange_136: 572466230
+      Pickups_Ammo_Boxes_Orange_103: -278197104
+      Pickups_Ammo_Boxes_Orange_48: -987541806
+      Pickups_Ammo_Boxes_Orange_147: -508031273
+      Pickups_Ammo_Boxes_Orange_56: 744175131
+      Pickups_Ammo_Boxes_Orange_88: 53130851
+      Pickups_Ammo_Boxes_Orange_45: -475545025
+      Pickups_Ammo_Boxes_Orange_140: -1731914034
+      Pickups_Ammo_Boxes_Orange_24: -1196368176
+      Pickups_Ammo_Boxes_Orange_130: -930492779
+      Pickups_Ammo_Boxes_Orange_115: -430235760
+      Pickups_Ammo_Boxes_Orange_53: -138006212
+      Pickups_Ammo_Boxes_Orange_86: 149561587
+      Pickups_Ammo_Boxes_Orange_146: 1294546103
+      Pickups_Ammo_Boxes_Orange_66: 1444199900
+      Pickups_Ammo_Boxes_Orange_132: 1799250204
+      Pickups_Ammo_Boxes_Orange_72: 119075965
+      Pickups_Ammo_Boxes_Orange_111: 1129034469
+      Pickups_Ammo_Boxes_Orange_32: -1565489686
+      Pickups_Ammo_Boxes_Orange_21: 43394144
+      Pickups_Ammo_Boxes_Orange_63: 1546797155
+      Pickups_Ammo_Boxes_Orange_25: 1677781570
+      Pickups_Ammo_Boxes_Orange_9: 1159784511
+      Pickups_Ammo_Boxes_Orange_49: 1266400892
+      Pickups_Ammo_Boxes_Orange_76: 230283504
+      Pickups_Ammo_Boxes_Orange_92: 570406006
+      Pickups_Ammo_Boxes_Orange_116: -2059164201
+      Pickups_Ammo_Boxes_Orange_110: 2071512899
+      Pickups_Ammo_Boxes_Orange_68: -154518660
+      Pickups_Ammo_Boxes_Orange_51: -88471515
+      Pickups_Ammo_Boxes_Orange_42: 954531715
+      Pickups_Ammo_Boxes_Orange_80: -841754163
+      Pickups_Ammo_Boxes_Orange_74: 1420606860
+      Pickups_Ammo_Boxes_Orange_6: 1034644214
+      Pickups_Ammo_Boxes_Orange_102: 605771388
+      Pickups_Ammo_Boxes_Orange_59: -1546259062
+      Pickups_Ammo_Boxes_Orange_106: -440605013
+      Pickups_Ammo_Boxes_Orange_34: 1658888806
+      Pickups_Ammo_Boxes_Orange_43: 1361825157
+      Pickups_Ammo_Boxes_Orange_26: 1457149927
+      Pickups_Ammo_Boxes_Orange_65: -36798349
+      Pickups_Ammo_Boxes_Orange_129: -1637704801
+      Pickups_Ammo_Boxes_Orange_123: -884174090
+      Pickups_Ammo_Boxes_Orange_77: -152449512
+      Pickups_Ammo_Boxes_Orange_98: -804839118
+      Pickups_Ammo_Boxes_Orange_10: -36749400
+      Pickups_Ammo_Boxes_Orange_31: -796608637
+      Pickups_Ammo_Boxes_Orange_141: -1739704840
+      Pickups_Ammo_Boxes_Orange_81: 663657650
+      Pickups_Ammo_Boxes_Orange_96: -376017152
+      Pickups_Ammo_Boxes_Orange_1: 172357431
+      Pickups_Ammo_Boxes_Orange_145: 1982545662
+      Pickups_Ammo_Boxes_Orange_55: 161734022
+      Pickups_Ammo_Boxes_Orange_18: -1437559538
+      Pickups_Ammo_Boxes_Orange_16: -1065437313
+      Pickups_Ammo_Boxes_Orange_91: -1685159779
+      Pickups_Ammo_Boxes_Orange_97: -846134755
+      Pickups_Ammo_Boxes_Orange_107: -1274972007
+      Pickups_Ammo_Boxes_Orange_28: 8579149
+      Pickups_Ammo_Boxes_Orange_73: -950624696
+      Pickups_Ammo_Boxes_Orange_23: -739359404
+      Pickups_Ammo_Boxes_Orange_128: -1691478994
+      Pickups_Ammo_Boxes_Orange_58: -253095834
+      Pickups_Ammo_Boxes_Orange_104: 1277670934
+      Pickups_Ammo_Boxes_Orange_149: -1536465624
+      Pickups_Ammo_Boxes_Orange_122: -1281965843
+      Pickups_Ammo_Boxes_Orange_4: -842143458
+      Pickups_Ammo_Boxes_Orange_36: -284484611
+      Pickups_Ammo_Boxes_Orange_125: 984469427
+      Pickups_Ammo_Boxes_Orange_7: -1788027569
+      Pickups_Ammo_Boxes_Orange_50: -1695618705
+      Pickups_Ammo_Boxes_Orange_0: -1968604111
+      Pickups_Ammo_Boxes_Orange_22: -449609435
+      Pickups_Ammo_Boxes_Orange_82: 476446509
+      Pickups_Ammo_Boxes_Orange_62: -2040392761
+      Pickups_Ammo_Boxes_Orange_41: 386292723
+      Pickups_Ammo_Boxes_Orange_144: -853136953
+      Pickups_Ammo_Boxes_Orange_105: -901538295
+      Pickups_Ammo_Boxes_Orange_133: -1338667861
+      Pickups_Ammo_Boxes_Orange_83: -1288977326
+      Pickups_Ammo_Boxes_Orange_117: -1075735787
+      Pickups_Ammo_Boxes_Orange_95: 115068301
+      Pickups_Ammo_Boxes_Orange_52: 663770667
+      Pickups_Ammo_Boxes_Orange_71: -1293630121
+      Pickups_Ammo_Boxes_Orange_139: 1409481470
+      Pickups_Ammo_Boxes_Orange_87: 174512048
+      Pickups_Ammo_Boxes_Orange_142: -1724788207
+      Pickups_Ammo_Boxes_Orange_46: 1748103955
+      Pickups_Ammo_Boxes_Orange_113: 668647986
+      Pickups_Ammo_Boxes_Orange_27: -918718658
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
