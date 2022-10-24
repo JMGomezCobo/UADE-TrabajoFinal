@@ -1,0 +1,3422 @@
+fileFormatVersion: 2
+guid: 3a65007f463b5e34b9065ab22bf576ca
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Projectile_Revolver_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 394
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fe514a5b241104f87af3619b9ce131
+      internalID: 1049011671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 394
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a408c6d1069f9b4bab2dec9249ac18d
+      internalID: 1996911849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 394
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5e858ddb63cfa45b4e075045e420c2
+      internalID: -2040703812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 394
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4acfaff6b915e4aa412c276d10d2de
+      internalID: 32701348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 394
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75eca902e3408a346902b026a8750702
+      internalID: -79210223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 394
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfb827f7fe642148b20682573a53cbc
+      internalID: 1532983570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 394
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18e7c52b9d82114a8047f3f9514fe12
+      internalID: -762267415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 394
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48476e5f6ad6d6d4a867163131ce735a
+      internalID: -1331420429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 394
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67514912bda3b504aae4b6642472101f
+      internalID: -1980251763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 394
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654b7ab235cda364cbfff200784185cd
+      internalID: 443551126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 394
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877836117be5b45478a269d0c843a97c
+      internalID: 552628504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 394
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbc4f3069fe1094bb2ee83001c199aa
+      internalID: -675941874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 394
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f24fd9886b0934bbd9076f8bf07588
+      internalID: -463217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 362
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5390e33e0196d4f9547aa491a2b4d9
+      internalID: 2071519261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 362
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919b69842d61987498709fbbcfe773c3
+      internalID: 1929735494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 362
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba46f87a20eb0340839fcf5e7c9dce8
+      internalID: 1495552853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 362
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e81f93c3df15f40a302c365074732c
+      internalID: 583366808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 362
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4bbc18b02bb844e82bbd19bda3eeab
+      internalID: 922708032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_18
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 362
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de7b06cefab8a94db2a5e99be11f488
+      internalID: -142384809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 362
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1149195d23be2a4bbefa57576045cc6
+      internalID: -607363175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_20
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 362
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce353591a7fd47940a26fb51a5bea22c
+      internalID: -1869427252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 362
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bc978f9cffd4f41bfad45691eb5d9c
+      internalID: -1246370609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_22
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 362
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ca49175c3b0c94783a1fa915d7dc2a
+      internalID: 1209085514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 362
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ec56b3208c98f41ae703072c8b3508
+      internalID: -956108514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_24
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 362
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94dfded6ccdf05448a7a17dc48d26c5
+      internalID: -1583214132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_25
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 362
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcd73af55d0f034bb2ccb7d6403b3cf
+      internalID: 1434564460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 330
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868894b04bc1c254897cb81b1affce64
+      internalID: -2010419739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 330
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41732dd96c0c40740a0075e02b3cba6e
+      internalID: 498856064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 330
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b207a4b57d1934a947e6151dfafbbe
+      internalID: -1601161106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 330
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff183913d36267b47accf1a24e66bb59
+      internalID: 2093171065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 330
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950198efe1c74f746845720ac1cd60ee
+      internalID: 1596763417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 330
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d5cfb962185d3498ff55dc61b84a2d
+      internalID: -434586215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 330
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2241c593dbe6c2459510d5bbd9121c3
+      internalID: -1251428397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_33
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 330
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f02d0c4ad67a4419d0bfb877a7296f
+      internalID: 369491151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_34
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 330
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfaa95a7e4bde2489278d65db9b106b
+      internalID: 807529216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_35
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 330
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffaf2868527fb843ad34f88d2a394a5
+      internalID: -7872481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_36
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 330
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44507fc4a043ce418e1641f7e31b115
+      internalID: -875179791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_37
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 330
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5db411e27b26324ead3ca6274f88df7
+      internalID: -1055976379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_38
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 330
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e012cbb2fb0c84799de470a5c9461e
+      internalID: 91294056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 298
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4409465f6a68d22429b0f55ca69675fa
+      internalID: 550716594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_40
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 298
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5de268ebc2e6641867f36df9e81f03
+      internalID: -803043362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_41
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 298
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a07e1b3364d215448b4787ea7c9c298
+      internalID: -448896952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_42
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 298
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4964016a520cf514aa55483674643579
+      internalID: 1306971548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_43
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 298
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2793d2fc303d8418b5bd31a915e596
+      internalID: -1678924047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_44
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 298
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e71663b60650d41af418a8c5ed0109
+      internalID: 1408130124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_45
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 298
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5c4a9add1b9644ebe97da376bbf6cb
+      internalID: -2052564646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_46
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 298
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8269080aa93d1944ba5e43c0be8b594d
+      internalID: -997567578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_47
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 298
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b5651cf35b6244da1c9a4b209f4cee
+      internalID: -1366939767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_48
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 298
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f801fecd4cde41f4c96a7d005245ed4b
+      internalID: 1067728446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_49
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 298
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55336e66f585455498059d5922065e26
+      internalID: 1310832145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_50
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 298
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558315860b728424dacbf69571822fd7
+      internalID: 1496041431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_51
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 298
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f0cbca2e1ea24499b95f6938246731
+      internalID: -1869824895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 266
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cb3587c9ffab14e8753f88f1722fe6
+      internalID: -1717751436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_53
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 266
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb45e4943823f542b502a5f1b005906
+      internalID: -1418159894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_54
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 266
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb79928567fa2b45bc924c307469b58
+      internalID: -393845658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_55
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 266
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94b5f8343473f8458beec320d11276c
+      internalID: 1376841516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_56
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 266
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6830c76280f2940b6b99c08dbed5bb
+      internalID: 1010562472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_57
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 266
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a977203499af6c4aa5735845ef31c73
+      internalID: -669237104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_58
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 266
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4979c8e6d56cfb247bf6d2201254fa7d
+      internalID: -1562222677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_59
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 266
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d276743224f05149bfe7603512b0d6a
+      internalID: -1548573155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_60
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 266
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b0c9ea2768ac9409d6db770c47a387
+      internalID: -1758113702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_61
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 266
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8b5ececbf7538499010a22c8aa2b91
+      internalID: -1920674247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_62
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 266
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f5b46ffcee381459e4097df54234f6
+      internalID: 81240608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_63
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 266
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e6bfad683fa424eae813b5b729783e
+      internalID: -1218795971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_64
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 266
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60e979c7c3f6fc4c93c414ddf98f718
+      internalID: 1085603620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_65
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 234
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a336cf801fb8294e8730d4352a121d8
+      internalID: -1470000380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_66
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 234
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7902108dc7e5b49458e93e7fd6fd23ef
+      internalID: -1743932933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_67
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 234
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65eed8bda0235374c970b1e5d719138c
+      internalID: 1327173509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_68
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 234
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c552ee0921b114690d1a6d71573ba9
+      internalID: -1660760313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_69
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 234
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc4f5e17f81da84ca74db19a1a0b852
+      internalID: 1772029752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_70
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 234
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff675cd03ca84e4439ee03fe8ab69eca
+      internalID: 103413039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_71
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 234
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2d7c3369b832748af260840974b1c1
+      internalID: -291624745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_72
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 234
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5ce1e30efb9184eaad088aaedc2589
+      internalID: 781188732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_73
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 234
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa747c08c0c9c440bd336eef5f4b933
+      internalID: -926292940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_74
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 234
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e112e6d216f9974d8f8d36661bfb792
+      internalID: 1476789489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_75
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 234
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3781f68a7f5b934db9a183bdf82d724
+      internalID: 1994162592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_76
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 234
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3237d1b7fdcd34798d60eaff523b27
+      internalID: -2147123375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_77
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 234
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fccd7e7a16a3fa4dbddc54bf402e7cc
+      internalID: 1135282740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_78
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 202
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a762750f201b03d45b3a6466330c9594
+      internalID: 1127949490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_79
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 202
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500e6a9fd4168494eab7e9cb3826f52e
+      internalID: -1386503543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_80
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 202
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e139b7df5e1a63942844763e81424829
+      internalID: 1266079961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_81
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 202
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b060e3b5cd32e11439faa0719d6a8b00
+      internalID: -1204114291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_82
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 202
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b441725026ed141a0f3506e393260b
+      internalID: -1262538053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_83
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 202
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9cf50a5e2c57046857e0e98b37472e
+      internalID: 234937325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_84
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 202
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa0abf9885e73d419fc489835f50bd6
+      internalID: 1513318073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_85
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 202
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe76d286cd647ef409fdeb6c60d99fb6
+      internalID: -409171839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_86
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 202
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a785b45030adc0a4ba1ce0affb850318
+      internalID: 1930506465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_87
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 202
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff222c67a41ced48ab23c0145c1bbf9
+      internalID: -1021805850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_88
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 202
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae4b22cbe3291742ac1dfe58cf4adfc
+      internalID: -407256579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_89
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 202
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbcd676b34f7dd4ebb3fe289ee6b8c7
+      internalID: -1821473749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_90
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 202
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5a106d9812da847a836e9004bd54af
+      internalID: 157339879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_91
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 170
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfff4095661f30b449ecb7c49d135bc4
+      internalID: -1786236569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_92
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 170
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a9ed473fd339443b44409f57696d5e
+      internalID: -166981443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_93
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 170
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84179ce1cdc9f604b949f52fb4d427a5
+      internalID: -1817197896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_94
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 170
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fcc4700b9f7a9429eac75d32fe7c40
+      internalID: -1442241178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_95
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 170
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d4bea8c12735a43b1e9eb10b762fd1
+      internalID: 1912031360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_96
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 170
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724bd1fb7c028044696d855e118815b1
+      internalID: -1554165437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_97
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 170
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82238e974dc570d4eac3e15ab7d94799
+      internalID: -55740447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_98
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 170
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a436f221a6c1e8949aaf86f83c39caec
+      internalID: 1539610094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_99
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 170
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee66cae3b89e66d439c2f27a272a38d4
+      internalID: 801669520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_100
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 170
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc598007cef174d4ca4d45b2d5f02196
+      internalID: -962179790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_101
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 170
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a38e2aecb2b5474e8398fc5bd0ab374
+      internalID: 706883577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_102
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 170
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825353a2d6936ad4bb09e8be9dff7ce8
+      internalID: -1674873461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_103
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 170
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37e96508df48c04cb4bd24ef00eb2f7
+      internalID: 2106796216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_104
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 138
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8627408962e9ff14b9d8cfa32e49701f
+      internalID: 1252763339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_105
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 138
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86515579c63f9bf45bdc7499d427219e
+      internalID: 1998108960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_106
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 138
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aace0c968004743999954968566c74
+      internalID: -1670438449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_107
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 138
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4c3942697e611458dcedeb4e87d09c
+      internalID: -1540613749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_108
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 138
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd3c92a69d640349bc1486c8c193bfa
+      internalID: -273351124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_109
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 138
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80106a421eaab854288b3178dccb30bc
+      internalID: -105805114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_110
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 138
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd4ed3b50373de4b8a61564d0c9ba56
+      internalID: -393163029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_111
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 138
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ea4a4a9a8d57344a222527feaee938
+      internalID: -1889002580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_112
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 138
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663ab583f1166764db30b6241926c8bd
+      internalID: -1997812271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_113
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 138
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66d0206eb4a7b34cad40645901046d0
+      internalID: -1202537481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_114
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 138
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1127d0691977be946b4325f75e6f3c0e
+      internalID: 1214690055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_115
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 138
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71fa80098169ed44bec557652614dad
+      internalID: 950212238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_116
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 138
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e727dfb9b1a2b3f4e90d3a019be96253
+      internalID: 1078490274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_117
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 106
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2aa300e497485428d3b7186f8227b6
+      internalID: -1505445120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_118
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 106
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5817c13a950814992254907db80903
+      internalID: -1321579240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_119
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 106
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be26f678efa25e4c9c477f684abff56
+      internalID: 572369515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_120
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 106
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8f6ffc6ef5b164fbb47572f3a891ae
+      internalID: -1530240120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_121
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 106
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2f329fb451f794196a7cac0ae3cd8c
+      internalID: -1477028358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_122
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 106
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebb87f9055ac034893758df1f0d88c3
+      internalID: 853149306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_123
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 106
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b468aba1decd548910982e5b69dbdc
+      internalID: -1257860381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_124
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 106
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8dcff8f29ebc8449079b803ab7aa22
+      internalID: -1747797953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_125
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 106
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754e870e4df347f4a8064895dc7a1546
+      internalID: -1027918424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_126
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 106
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fc904943591954d8356366f9863743
+      internalID: 904732414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_127
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 106
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b3e044e6a1f014f95ff05646d44c18
+      internalID: -3769818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_128
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 106
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554a868c80c9f324c831d32fb31c5758
+      internalID: 505538766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_129
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 106
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79497e8d01a7cb4e8c3105abe8d96cd
+      internalID: -1036063610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_130
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 74
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cc294ad04a4354d9ba57032c1facb2
+      internalID: 1175278238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_131
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 74
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed05a5af1509b9449521189d184a4c0
+      internalID: -632746985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_132
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 74
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe07b94f8652ea4d83740c3dd06024d
+      internalID: 1290371178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_133
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 74
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8c9770ef0264d469c7d1a186377c81
+      internalID: 1024715832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_134
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 74
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12564028005348f4a88d406c728423c7
+      internalID: 494797248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_135
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 74
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e918e90745ffe5543bb772e3f3d4167f
+      internalID: 1144453498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_136
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 74
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db278b985a8e78459f0198fb767d5c6
+      internalID: -2140645919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_137
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 74
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1202d6f582502940a6c1f19cc43dd9f
+      internalID: 1326225222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_138
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 74
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8073fc5b29f304cbafc4a10578d4a7
+      internalID: 438673562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_139
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 74
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f141aba7ea684934798a2f641b3b7820
+      internalID: 2099348615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_140
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 74
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1459794f71840f45a3cb61ceebc4af6
+      internalID: -1385620590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_141
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 74
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c338af0da7567154983da75b31a44353
+      internalID: 135996056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_142
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 74
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da29ff1313943f469d4793e9a418a7b
+      internalID: -524627775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_143
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 42
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6323f6e9004aef241a68595ec5ff6c8b
+      internalID: 1307872391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_144
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 42
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579a17c315a950e44a6d572eb12b673d
+      internalID: 1168868143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_145
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 42
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf70a151d41de54b96e0c16fb6f6042
+      internalID: 1889476709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_146
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 42
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c7405f80a314140aa075d48a21cc49
+      internalID: 1421176097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_147
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 42
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27548706379c5b94fbe13ea22d07ed9a
+      internalID: 902751040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_148
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 42
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7685aa19aa362498b58a0f99db2db3
+      internalID: 846847096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Revolver_149
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 42
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ccd1fd27d57f44f93efbd38be9b301
+      internalID: -1947778892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e1dab87699a7b0548b6c2e741ea4607c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Projectile_Revolver_114: 1214690055
+      Projectile_Revolver_148: 846847096
+      Projectile_Revolver_16: 583366808
+      Projectile_Revolver_52: -1717751436
+      Projectile_Revolver_144: 1168868143
+      Projectile_Revolver_58: -1562222677
+      Projectile_Revolver_92: -166981443
+      Projectile_Revolver_24: -1583214132
+      Projectile_Revolver_102: -1674873461
+      Projectile_Revolver_5: 1532983570
+      Projectile_Revolver_7: -1331420429
+      Projectile_Revolver_38: 91294056
+      Projectile_Revolver_68: -1660760313
+      Projectile_Revolver_128: 505538766
+      Projectile_Revolver_145: 1889476709
+      Projectile_Revolver_27: 498856064
+      Projectile_Revolver_64: 1085603620
+      Projectile_Revolver_41: -448896952
+      Projectile_Revolver_72: 781188732
+      Projectile_Revolver_2: -2040703812
+      Projectile_Revolver_6: -762267415
+      Projectile_Revolver_112: -1997812271
+      Projectile_Revolver_80: 1266079961
+      Projectile_Revolver_93: -1817197896
+      Projectile_Revolver_120: -1530240120
+      Projectile_Revolver_44: 1408130124
+      Projectile_Revolver_139: 2099348615
+      Projectile_Revolver_97: -55740447
+      Projectile_Revolver_71: -291624745
+      Projectile_Revolver_53: -1418159894
+      Projectile_Revolver_15: 1495552853
+      Projectile_Revolver_22: 1209085514
+      Projectile_Revolver_104: 1252763339
+      Projectile_Revolver_60: -1758113702
+      Projectile_Revolver_134: 494797248
+      Projectile_Revolver_147: 902751040
+      Projectile_Revolver_79: -1386503543
+      Projectile_Revolver_56: 1010562472
+      Projectile_Revolver_140: -1385620590
+      Projectile_Revolver_149: -1947778892
+      Projectile_Revolver_21: -1246370609
+      Projectile_Revolver_69: 1772029752
+      Projectile_Revolver_83: 234937325
+      Projectile_Revolver_65: -1470000380
+      Projectile_Revolver_0: 1049011671
+      Projectile_Revolver_141: 135996056
+      Projectile_Revolver_96: -1554165437
+      Projectile_Revolver_36: -875179791
+      Projectile_Revolver_121: -1477028358
+      Projectile_Revolver_103: 2106796216
+      Projectile_Revolver_35: -7872481
+      Projectile_Revolver_32: -1251428397
+      Projectile_Revolver_136: -2140645919
+      Projectile_Revolver_39: 550716594
+      Projectile_Revolver_34: 807529216
+      Projectile_Revolver_100: -962179790
+      Projectile_Revolver_105: 1998108960
+      Projectile_Revolver_67: 1327173509
+      Projectile_Revolver_137: 1326225222
+      Projectile_Revolver_50: 1496041431
+      Projectile_Revolver_116: 1078490274
+      Projectile_Revolver_66: -1743932933
+      Projectile_Revolver_143: 1307872391
+      Projectile_Revolver_29: 2093171065
+      Projectile_Revolver_98: 1539610094
+      Projectile_Revolver_12: -463217
+      Projectile_Revolver_146: 1421176097
+      Projectile_Revolver_46: -997567578
+      Projectile_Revolver_47: -1366939767
+      Projectile_Revolver_94: -1442241178
+      Projectile_Revolver_106: -1670438449
+      Projectile_Revolver_88: -407256579
+      Projectile_Revolver_138: 438673562
+      Projectile_Revolver_18: -142384809
+      Projectile_Revolver_73: -926292940
+      Projectile_Revolver_127: -3769818
+      Projectile_Revolver_48: 1067728446
+      Projectile_Revolver_111: -1889002580
+      Projectile_Revolver_57: -669237104
+      Projectile_Revolver_118: -1321579240
+      Projectile_Revolver_61: -1920674247
+      Projectile_Revolver_37: -1055976379
+      Projectile_Revolver_78: 1127949490
+      Projectile_Revolver_119: 572369515
+      Projectile_Revolver_122: 853149306
+      Projectile_Revolver_142: -524627775
+      Projectile_Revolver_14: 1929735494
+      Projectile_Revolver_62: 81240608
+      Projectile_Revolver_125: -1027918424
+      Projectile_Revolver_117: -1505445120
+      Projectile_Revolver_130: 1175278238
+      Projectile_Revolver_75: 1994162592
+      Projectile_Revolver_123: -1257860381
+      Projectile_Revolver_74: 1476789489
+      Projectile_Revolver_82: -1262538053
+      Projectile_Revolver_40: -803043362
+      Projectile_Revolver_54: -393845658
+      Projectile_Revolver_9: 443551126
+      Projectile_Revolver_76: -2147123375
+      Projectile_Revolver_90: 157339879
+      Projectile_Revolver_31: -434586215
+      Projectile_Revolver_95: 1912031360
+      Projectile_Revolver_108: -273351124
+      Projectile_Revolver_84: 1513318073
+      Projectile_Revolver_129: -1036063610
+      Projectile_Revolver_10: 552628504
+      Projectile_Revolver_85: -409171839
+      Projectile_Revolver_91: -1786236569
+      Projectile_Revolver_101: 706883577
+      Projectile_Revolver_43: -1678924047
+      Projectile_Revolver_1: 1996911849
+      Projectile_Revolver_109: -105805114
+      Projectile_Revolver_23: -956108514
+      Projectile_Revolver_45: -2052564646
+      Projectile_Revolver_110: -393163029
+      Projectile_Revolver_28: -1601161106
+      Projectile_Revolver_63: -1218795971
+      Projectile_Revolver_13: 2071519261
+      Projectile_Revolver_20: -1869427252
+      Projectile_Revolver_70: 103413039
+      Projectile_Revolver_8: -1980251763
+      Projectile_Revolver_51: -1869824895
+      Projectile_Revolver_99: 801669520
+      Projectile_Revolver_132: 1290371178
+      Projectile_Revolver_25: 1434564460
+      Projectile_Revolver_3: 32701348
+      Projectile_Revolver_55: 1376841516
+      Projectile_Revolver_30: 1596763417
+      Projectile_Revolver_17: 922708032
+      Projectile_Revolver_77: 1135282740
+      Projectile_Revolver_33: 369491151
+      Projectile_Revolver_124: -1747797953
+      Projectile_Revolver_126: 904732414
+      Projectile_Revolver_135: 1144453498
+      Projectile_Revolver_4: -79210223
+      Projectile_Revolver_131: -632746985
+      Projectile_Revolver_113: -1202537481
+      Projectile_Revolver_81: -1204114291
+      Projectile_Revolver_89: -1821473749
+      Projectile_Revolver_49: 1310832145
+      Projectile_Revolver_86: 1930506465
+      Projectile_Revolver_107: -1540613749
+      Projectile_Revolver_115: 950212238
+      Projectile_Revolver_133: 1024715832
+      Projectile_Revolver_87: -1021805850
+      Projectile_Revolver_19: -607363175
+      Projectile_Revolver_26: -2010419739
+      Projectile_Revolver_59: -1548573155
+      Projectile_Revolver_11: -675941874
+      Projectile_Revolver_42: 1306971548
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

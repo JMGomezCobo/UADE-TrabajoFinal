@@ -1,0 +1,6634 @@
+fileFormatVersion: 2
+guid: 174780b98fcff5a448858b00c025f5e6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586a9ebf8a79c3741be3676343307798
+      internalID: 1773325472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 612
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a6d983c1ae49b44954c6b944b9e7d4
+      internalID: 1039138267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 612
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf304dbbc9d29344a80eccb3cd379b7
+      internalID: -1532744332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 612
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edb0866201f766479863d0d059a83ba
+      internalID: 1603701157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 612
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9281a9f88802d4442a478ba79f705ae7
+      internalID: 717362150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 612
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed5847b762d86846ab036429d8c8cab
+      internalID: -1568367885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 612
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecad139b8612974998d925ce2bb00f9
+      internalID: -1469059597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 612
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3047bf6ff36232642b149fc0da5868bc
+      internalID: 184756783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 612
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286a32d95d56a4845a1aa0750866de6c
+      internalID: 1085185390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 612
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f908b5c7cae712c488556697bada7b6d
+      internalID: -293016876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 612
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d820495fc69c04409aa0d7a24649714
+      internalID: 1908178091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 612
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980b6a988ad6cec4a9d111baf6c62df7
+      internalID: -460826584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 612
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fda7ca9fb9e20c4299fe36bd7030cc0
+      internalID: 58871189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 612
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b929d2f8b2263d4bb519ab9b1154b6c
+      internalID: 1004339558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_14
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 612
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4b32fc84ae897418fb1263073088f9
+      internalID: -1620283483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 612
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021960a502f3ba34992b83bcffced957
+      internalID: 857378618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 612
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8d4225a96a22743bac380479c0bf7c
+      internalID: 1422310613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_17
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 612
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d56c040aa29cc48b61821293f9f8cd
+      internalID: 5464827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aadc541fb490644ba97da35750b1e2
+      internalID: -1077322595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 576
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da42a81c05244974aae50c3586c2bb36
+      internalID: 872873547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 576
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c4c427a9e9f274287bca0b537ef9fb
+      internalID: 1350614944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_21
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 576
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9cd42d63d14c140a75b73d15c54201
+      internalID: -821439502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42fff0fc3933ac4fb594c2923dcbe91
+      internalID: -2078988063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 576
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4915f53fe456c8419bcb8f382333d1a
+      internalID: -1885365343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 576
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2dc019ee350224eaadf91ad9223bb1
+      internalID: -848426812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 576
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf93a8392c79d7e40992a027e1536665
+      internalID: -1733961744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981f03e1a9e25d5488830df913a90bb2
+      internalID: 83042718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_27
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 576
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68950bf804559f148ab4a5046f4b3b9a
+      internalID: -1407280144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_28
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 576
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c75da3606e86ba40ad5a38110b01c39
+      internalID: 405129684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_29
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 576
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c9659782d63484f802a2d8a38f5911
+      internalID: -1026065080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_30
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09f6f5b876c52a4395c5169a17d8796
+      internalID: -2028975049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_31
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 576
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd08828706e80c469937020a2ea90f3
+      internalID: 784402517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_32
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 576
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18445fea3764f545be38aa457f43927
+      internalID: -999409679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_33
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 576
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e6adf7500513b48829065e8a0fdc85
+      internalID: -1690666280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8ecdb627207d0438645d315b00b2d8
+      internalID: 1589944176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_35
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 576
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00dec98cc7a3a049867b428a31cd0bf
+      internalID: 1033540018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd48b30597cd02a4d9d98d7830e791b2
+      internalID: -677103440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 540
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51142afac4441714cb1566818d577bc9
+      internalID: -570258407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 540
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786cebe3449bbd142a5c0434219e2e70
+      internalID: -1435789201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_39
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 540
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6699abc0514f85418a29fdcaf7c1b7e
+      internalID: 1411043662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 540
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17e200b2c2a228449940a356b5c225d
+      internalID: 146720191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 540
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4ec76e7ba42b24ba904a466d13f133
+      internalID: -1002890366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_42
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 540
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177ce767c26486c4fa54619f37722a9b
+      internalID: -833656519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_43
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 540
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333bbdf3faf280349afbabc6d3eba872
+      internalID: 261800064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 540
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcb240bcedf066458b12e73ec22f845
+      internalID: 637113982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_45
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 540
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de64ba4188b33004a9d062914d368858
+      internalID: -2048172417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_46
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 540
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ad41daa6b0bf647950b6abb3a1f066
+      internalID: 994245077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_47
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 540
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02af715d4f18664ab9a5c226d7f9bb9
+      internalID: 1060887341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_48
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 540
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e780bae6b56384383fc6c1303e5ea8
+      internalID: -2078563619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_49
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 540
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bf0a9db78203a4bba3a81649bcf845
+      internalID: -678455335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_50
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 540
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf514b7e98439e14281a13bcf8754566
+      internalID: 200414632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_51
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 540
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13169214f5a631419b8d5ef328528c1
+      internalID: -771490992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_52
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 540
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fa78fa02bbf35458dc06b986036e33
+      internalID: -1266918330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_53
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 540
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d05e6b3c737f94d8d3174f88ea6820
+      internalID: -1975663879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1460974b76d4b2d4383a472da45a9244
+      internalID: -887349913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_55
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cc51d2117a1ee42bd0c34a4bdf8b14
+      internalID: -265615487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_56
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa53b6625914cb479e40ff05a3ad436
+      internalID: 1046456915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_57
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afae38d4e5500740bda85fbef47a4b3
+      internalID: 463736564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8996755bedd3980469393499e0dea19f
+      internalID: -1306076074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a0839b9bc68864b82147e99113f152
+      internalID: 2136309619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_60
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bdf730b8422394b91fddac752a7123
+      internalID: 752996160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_61
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c5e87ebd50fe846a2a9413ce7c21ad
+      internalID: -1011874874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_62
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852123650f3f178448739d9396b32d2d
+      internalID: 983061525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_63
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db812ff2b341fd468a58da616494e65
+      internalID: 2032329210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_64
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84b72448e17f8241ba67dab3e5abcad
+      internalID: 1794757204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_65
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c2ef5cafd0e0c45a5f87d516091795
+      internalID: 884902813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_66
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb6532e7ef89c545a7e857fc13be851
+      internalID: -1477801760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_67
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ddeb139ad3bba4e8976b87b3c0cd4e
+      internalID: -1571481978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_68
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dcbc5f6e897fe4485403e377a33930
+      internalID: -1101180991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_69
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba6612c61dad7845b574b9beab2ceaf
+      internalID: -1455952619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_70
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a566db95347fb8542bdb8de3c66416dc
+      internalID: -168219633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66ff99fc73be6748b666a67ea86df4c
+      internalID: 638067501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_72
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf4949d305d62b4183079a66a714e13
+      internalID: 1218009504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da70d2ce8b12434f9011aa05cc10783
+      internalID: 479591779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_74
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e8c972c48e1a44ba43903bee6cacea
+      internalID: -495541304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708d2cf4385f72e4b8b8001f10666636
+      internalID: 1915868886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_76
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853d919234b0f3147914d2bc7480b640
+      internalID: 1952679311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_77
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aff7f246d8493f47aa7d6cd5cec6913
+      internalID: -773715963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_78
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01ab46349e94db44b1b3f48cb38c9b1
+      internalID: -1105126701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89470d9602d8da24588ac4bbfd8838d8
+      internalID: 941387590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_80
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1bb0203644bfb4ba0105d18028e215
+      internalID: -1721117991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_81
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741954116ac291e4bac80615f2877bb4
+      internalID: 158132261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_82
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9dd4d7cf8b57f4d915d82844e49f0e
+      internalID: -501364359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_83
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39aba274ea69e245a2947f63a44b3c7
+      internalID: 1530500778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_84
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee58fee197df0342aec3b19c351a84f
+      internalID: 313392444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_85
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1d6f381bd00b34ea0ec8cbd26b2c56
+      internalID: -1637525757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_86
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c248d4ea35bc629479031cd8b47236f8
+      internalID: -231224977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_87
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d0b38b23c97af4ab7f43384273d99d
+      internalID: 571481644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_88
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 468
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5826ee0f638b6e54e9c7e4f30acb34ef
+      internalID: 1511299121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7069f6c060e608248af94ac026caae36
+      internalID: 1940583743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_90
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f75a9ca0c6da7147b1f348c68c7d843
+      internalID: -926536315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_91
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fed5309c8824a4d9fce8179b758e85
+      internalID: 66983986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_92
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42c14ceae184cc4397a2649c8cac8db
+      internalID: 85610408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_93
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab52d4c73ddc08748876ec17c551302e
+      internalID: -261597635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_94
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f4190500425f54f90a638e5cd60f73
+      internalID: 1947592105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_95
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacf9b64dfb0ece4288c1f26bccfabec
+      internalID: 1922053960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_96
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aed3808c8f15846b4a943009807d7e
+      internalID: -2138922643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_97
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578ddaf5fc864f3488272448c849598f
+      internalID: -1496118054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_98
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44286468da739a40b15369132f81054
+      internalID: 810952599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_99
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845e48cae756a4f458a99594369a8c2e
+      internalID: 1886147196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_100
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d8fe32996880e48a59d43f6b066f76
+      internalID: 722787330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_101
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05884b4e850f98f40a92f2d052c53e53
+      internalID: 1485128269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_102
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237d55ec38f13e14c8ac532ceaf7d485
+      internalID: 1364191755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_103
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81deb77594665343980d7423e1fc1a3
+      internalID: 847549706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_104
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff94a532253ecc24ca4176fd0e1d2baa
+      internalID: 530747373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa28f4bdd2ebca47b24e012baef8a71
+      internalID: -822619146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_106
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 432
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5d5cc80ea0cbe4eaf4af593ba43f03
+      internalID: -424345184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36820d1cd1fb94f49aefa4d50f037171
+      internalID: -1853755313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_108
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46470af274aea7744a3586cf992aefbf
+      internalID: 1652774382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_109
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f2b83e2a156f14b914e32837e4e28a
+      internalID: 1387703297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_110
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a920e0a76d5934b42bfc1d20f064d4dd
+      internalID: -326370879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_111
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70581c2b71bfda4e92aca686319937d
+      internalID: -1560464798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_112
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d0f1057a2106c4a9ddc93a9f9faeae
+      internalID: -224976552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_113
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d291dac640ae2a4a9981b01b9df59be
+      internalID: 476507610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_114
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32db17b01a8da6f4ca8aa840b101d61c
+      internalID: 1957457409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_115
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2ac2de32536ad40b1075ed8956a0f6
+      internalID: 1833441473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_116
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3be0e3b02301054cb0d4da501a43003
+      internalID: -279315361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_117
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983c5ff354e8c5c4abac97fed1305f7e
+      internalID: 1085486431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_118
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3015bd864c55fbe4887e8e079c371c71
+      internalID: -369354102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_119
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44b2769265875c4bb6c7979efd6af26
+      internalID: -2125997606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_120
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8275b20113e6c1b4399c381d5d6ac8a3
+      internalID: 1544833451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_121
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b56360700d5094a902ed6227b0895c
+      internalID: -178818128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_122
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257e5d87f0c6f8a4a9d2258f856feb01
+      internalID: 1491566951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_123
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 396
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ece238b3225c4a448e1a74627b0a216
+      internalID: 534019259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c9c7bb6bb6fd949a6b82bbffa6fb7d
+      internalID: 1147265107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_125
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1443154e96539545b591525c01876c7
+      internalID: 176105824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_126
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a99ce2d331e68b459cc7a33bd3551e5
+      internalID: 1842924705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_127
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61aaa67a93535b4f85c4087a62346f3
+      internalID: -2121239011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_128
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8646bf465fa6e6141a16006616f143b5
+      internalID: -1721729735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_129
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8535142363910054cafd23ca48b492f0
+      internalID: -537969898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_130
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56033fd9c63667f4aa7991193e84b060
+      internalID: -313771516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_131
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8637b3ac104f0a042b7f54429958a638
+      internalID: -1218509118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_132
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31a519c1dab42c4ead0e5da1502e799
+      internalID: 661204041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_133
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83734489ca946cd4d973e166fe58e1e2
+      internalID: 1295585866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_134
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a1e354c56a3c645897c0a30b23bd10
+      internalID: -1021207582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_135
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56ce5138d8888e45b0954c406b9c15d
+      internalID: -872587978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_136
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f37fbce09fed0e48b209fb3772f61b3
+      internalID: 1117612720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_137
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edbfd4235a900543aef868036e40bcf
+      internalID: 1896756748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_138
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb67da7eda037c4c8e8717b93794f32
+      internalID: -1164846007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_139
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d81483bf7d04a34a9174eba3f669112
+      internalID: 1566544761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_140
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404a6d4845f22684ebdbf15a118c8d51
+      internalID: -555998761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_141
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa644f4b1972d314bb7a54c1f6fd89ef
+      internalID: -1335184174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b7d80705d7f7347bcdb5c2cc483b26
+      internalID: 1960687556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_143
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f933b3546382b4485b6c5a0a9573dc
+      internalID: 1396336632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_144
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6ecdf95dc463141a80e7400f6bcc87
+      internalID: -1426582628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_145
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cfb3dc09c574e439dd521670e5967f
+      internalID: -1226236713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_146
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87cb738e7f461740bedec77f82dda76
+      internalID: 217156675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_147
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cfdb356b25bfb47a66708b9b784cc5
+      internalID: 1143996853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_148
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9507cf7388dd1e4cba755fa48e1fbff
+      internalID: 1121652957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_149
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9bd76af050b9e4babc38dd9ff4dbd9
+      internalID: 1328391350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_150
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62e50bc981702946b8d7c1697742cd7
+      internalID: -1996831848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_151
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763ceea08dda083499bb598c4883e202
+      internalID: 1105968386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_152
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0116befb70c42dc408425ba58e60c842
+      internalID: -837460857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_153
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c0362c02afe534687dd7e78acca8ba
+      internalID: 562425729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_154
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9c02cc579ea554faf18b1da8221f17
+      internalID: -749337335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_155
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55541e79389c0e4f8113a3b30261271
+      internalID: 1379311823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_156
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1186c9f7c6822f745af002a873ce2dcb
+      internalID: 1631800911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_157
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ca28d4caa32634aacdf3b1e0a8ca50
+      internalID: -1138411186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_158
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533d4b678335ad04cb4364d00d8634da
+      internalID: -1912911643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_159
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cd3aca8d62a9d479ec12c21e5fcc95
+      internalID: 894904604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194b35db80989204daed6d8d9514dd3e
+      internalID: 356978325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_161
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254c29367d080654788227253277220b
+      internalID: 878548069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_162
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97f041a28bc2ad42ac6c7499840eaf5
+      internalID: -345177616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_163
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1742270b7b89e942ac10f111cac4cfd
+      internalID: -2129455308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_164
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda5b1a759e268a47ad3d82aae00bc6a
+      internalID: 361135280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_165
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0a8ceceae42974c916c271ab2ea4d1
+      internalID: -556473539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_166
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb098d0fce36b54492c4e169fd63442
+      internalID: 133219149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_167
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8fe9681f1d819478f464239c9d39c9
+      internalID: -244066463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_168
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ff86eb0321a4f479e20f7f44fae4f5
+      internalID: 1196332998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_169
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce834c26f8e82c442b08e05eab24fde6
+      internalID: 204124827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_170
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961a870c19cfb4a4487678dd4e05eb0c
+      internalID: 53706708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_171
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b227a3e1e8554ee4a9c45d5057e97ffe
+      internalID: -1802280514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_172
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37e4b2a374b4654999ab49948632c56
+      internalID: 652975685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_173
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0953127f2e7d0f438937364bf2c4c0c
+      internalID: 1969984767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_174
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191ee08edcd5e1e418eaccc24a7a6441
+      internalID: 1667312697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_175
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c618a81b0bb0e74fb79ab19f6cb2029
+      internalID: 417871583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_176
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a55befc85f98064795aef0640b6d320
+      internalID: -1850838259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_177
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 288
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f618145ccbd30d24281cd283897af591
+      internalID: -1561153851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_178
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6c04f6196cc37449a405663be90ac1
+      internalID: -648029893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_179
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4867531dfde051948b191d174f4f2a5c
+      internalID: 321264159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_180
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e080439d0691bf34aba512bd1dd054d3
+      internalID: -753970747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_181
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60367f4f10a97c439fd6bf57ac6bd57
+      internalID: 155959904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_182
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba0a8333ec934642a8b44678d1a9c2e
+      internalID: -126392801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_183
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42283d9bf4423fb40a6b199d95cb53f0
+      internalID: 1700252202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_184
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3bf508cd9ad724791af1819ab2d401
+      internalID: 2098374069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2303c68857ca94090ee684d90955fb
+      internalID: 900866765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_186
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2296e990b733abe42b6a156209dc228c
+      internalID: 2137540579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_187
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a4e0d276855bf45bc26141ef5c2623
+      internalID: 1277560803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_188
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8359e0cb0bce384eae260af29cba495
+      internalID: 815026649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_189
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d7d71d4edc65240ad6492ed3726b18
+      internalID: 1696866069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_190
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd7eff51d6ca0d449d68be2bb92593b
+      internalID: -1289492251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_191
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c402aca9f0f668409bf63262c2659f0
+      internalID: 876347755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_192
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78d6d1705f52134fb0b5663235450e8
+      internalID: -1678613197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_193
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee81039ac133884428f5da8316f8b677
+      internalID: 2025859425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_194
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 252
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc77e3f225f0e0140b9baa36c3fedabd
+      internalID: 1460524223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74112181984751b44bad943c217cf9d0
+      internalID: -958751660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_196
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f695bf01795d40499390989e08c0849
+      internalID: 1148416160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_197
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dda28b6275ed049a192c2910033c4a
+      internalID: -1690823947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_198
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6c0ce0b2808b64392f4be787655628
+      internalID: -1551401205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_199
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b353f56ac3b20814a8f710ae68c54a88
+      internalID: 1684733583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_200
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147799f008c21d041b5bc6ff7a3e5b00
+      internalID: -1958683041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_201
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378288c0a79f65b4d90bc5b91598340a
+      internalID: -1893341419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_202
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fc25001e2f2f44b96b00e577a5d429
+      internalID: 1918829411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_203
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b3ba3d7f960ae4fadddb1f798b81be
+      internalID: -540053046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_204
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ad460021a216043b1f9456685fb380
+      internalID: 1259610278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_205
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750e107468f4418419ec17b5c84c6c8c
+      internalID: 1823694644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_206
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5d9cbfb9c788442be398d0f3666c80
+      internalID: -1001357757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_207
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43555c8cfededff4f87a5f987299468a
+      internalID: 981609959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_208
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5436558def7494c8f625baf50daa8c
+      internalID: 1557658120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_209
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4632c714419c34b8d1457d6e0cd48c
+      internalID: 589774466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_210
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250a1b00dc62b6a4784ff5b9b2af3fac
+      internalID: 750628007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_211
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e54757851a62bb48ad0ca6f9ceecc6a
+      internalID: -1920069741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_212
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 216
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff16542c06c2c8419000e2e5df9c13d
+      internalID: 156974127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_213
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52babcffd4691c14bb68e0be679f6efb
+      internalID: -1170312147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_214
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a232a85058ffa1d43bf2f2d35c733845
+      internalID: -1792762259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_215
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d41062de08f18488a213392f4220cf
+      internalID: 33561662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_216
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacf305dbe8ac4d49a105d71a5a98201
+      internalID: 283145398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_217
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f8d75c187f49e449ed0aa26a5a1f75
+      internalID: -1675527502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_218
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd62d8973a7682d439eb1f3b2d574302
+      internalID: 191854741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_219
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8bd6d5336629746b53f4078ebef889
+      internalID: -1619857356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_220
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff817b832a1ec04f91ad04ea5730df2
+      internalID: -1522944622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_221
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac160601cd31dd4890f40ce416e1dc3
+      internalID: -51572060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_222
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b52e7cd6671ee4ab5a4d7adaffb6d9
+      internalID: 1726196834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_223
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa0a874e4a55094884be271be606cdd
+      internalID: 93455032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_224
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517d07145087acf4f88bc1cc3e5a9f7e
+      internalID: -351805204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_225
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2624b18bd619a1243b8a507b6d6659f9
+      internalID: -1682668690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_226
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017ae49e72b4628458734a6ae23c86c1
+      internalID: -1414897896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_227
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b322b2a905a28d74683924bf11b5cd65
+      internalID: -1168588880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_228
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757ba9c16eeb65c45aa6bb04b541453a
+      internalID: -2034203065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_229
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f2fc2e58ef8e041b97c9eab97d464b
+      internalID: -943315219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_230
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d259b005d7a9394e9cc8928f091f0dd
+      internalID: 880700828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a42a0a47e7b6ae4db77615b21e49cde
+      internalID: 1964835604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_232
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a52dc32fbffe441a1cc1edcb90325f
+      internalID: 2038004787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_233
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2747b98f85b03419d619f3ce06dd91
+      internalID: 2019081588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_234
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09a279b1452dfa4cbdae278a3ee55d4
+      internalID: -1303823276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_235
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf25071e011de748b807f5d13facad5
+      internalID: 1585637859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_236
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9e3131f71a6ac4cb20effb2882c61d
+      internalID: -306190625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_237
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5d541899a39604c8e809874c72ff45
+      internalID: -605776244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_238
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc3ba24cbf56a543a964a29639baa58
+      internalID: -1734073248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_239
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9630f5ea0e553e24aa3e229c5bd213f0
+      internalID: 1271399658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_240
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de111ad10e701a849bcd55fbe3649d8e
+      internalID: 1775547970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_241
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa91ba3166d95f8499df5a3c45d95048
+      internalID: 648103980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_242
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd018a5228a3e946a3e6451fbaca7c7
+      internalID: -1090941848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_243
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a144284d4b1305146860f447d08ed4d8
+      internalID: -2049604347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_244
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078d71803a35eeb44a0cd79f5c4beabe
+      internalID: 183816946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_245
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa129817bba38e478c24e1010703826
+      internalID: -449107641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_246
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4412cea7ac861f446ad61e0294a1dd2d
+      internalID: -421824695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_247
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 144
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4040496f3b3924391368e77ea79bed
+      internalID: 388387895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_248
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2361a57be7b8064479c0ddb8d1a22a3c
+      internalID: 2131000522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_249
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0a0f6e263b57e45b55e7bb460a4e30
+      internalID: -1198820111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_250
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a25690c78a08446aec29b5c862250b
+      internalID: 1014125095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_251
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a82a64454f3b34cbc0541f7ad11a75
+      internalID: 530814183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_252
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57169f1cee55684aa0766350ccce914
+      internalID: 1968753029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_253
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc15b5d979c4ea14ebf14bf1f0c53025
+      internalID: -1444157193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_254
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fffeb32386a6d44a16b2f5d0f3c524
+      internalID: -1545065495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_255
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bcad4a67643d64c93d1f30dec5292b
+      internalID: 883365885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_256
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975da79ff8e71ec4e910f0c1029e0d7d
+      internalID: -1062581076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_257
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ff8b49a380f704abaab7a3d01f3d6e
+      internalID: 1106325599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_258
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3a9b6a41aebce45904d8f15fc72244
+      internalID: -965927151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_259
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fed65ea182dc5147add2f482dba631f
+      internalID: 792790519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_260
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bb6055a4d00734e80c6bf121d87ffb
+      internalID: 1449749991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_261
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33df5e328f3193844ab593cc589fb730
+      internalID: 561567070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_262
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dc09ed2e3508943813d08bbc6ecc1e
+      internalID: -946784356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_263
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182eed2aaacc1b5478711a735d509875
+      internalID: -234838375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_264
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e85af46fc3f234e96e191034de61ff
+      internalID: -1808893869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_265
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 108
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356b206198d525a419c22c993989ca9a
+      internalID: 1979576920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081194ccc02715549b8d520fb496bfdc
+      internalID: 1470086314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_267
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8a8307f7e64684388b2d3d367ab957
+      internalID: -2080483426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_268
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed474d2acb7649a4eb0a612e641b029a
+      internalID: 900767194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_269
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816ef19c1f0e2734ca5f0764db70df6c
+      internalID: 1014112888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_270
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e142c9926467b6740af76b99315fe056
+      internalID: 1944693747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_271
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f72157a342d6a4886e580125279318
+      internalID: 285105365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_272
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86b04e938500a84fad883d3ce1ec50b
+      internalID: 1989383163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_273
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ac76889738d2140a3aa84215be668d
+      internalID: 2091917162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_274
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1895911f0e61d449db42505e331c59
+      internalID: -1333882217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_275
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b66fbd9f8d7106459390a4c867bac80
+      internalID: -297237076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_276
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075482f9b5fbd124fa7d41a0f3819396
+      internalID: 1177139199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_277
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bde4d8451dd8040b7654d1f2d66da0
+      internalID: -1994315590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_278
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b6dc6cf0921ea4f890d199644aa901
+      internalID: 229601147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_279
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bf6675e624d91498e4737f4744fdd1
+      internalID: -901875153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_280
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec36c9cd37c93e1469447592960ae8a0
+      internalID: 1335402370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_281
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751095c6eeb979e4aa170703d1c6085f
+      internalID: 765446130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_282
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fa28fa281ccca42beb13762596d232
+      internalID: 2017029513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_283
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc885f5e59ff2a14b91aa72ecec7d1bd
+      internalID: 1193531527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_284
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3283e68fb953646aaea834e989c19e
+      internalID: 707754652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_285
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1870c297da3c14c4787bf0b69e503641
+      internalID: 1875517458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_286
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d784047278d24f4b8e15eeee6e98eaa
+      internalID: 1774458854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_287
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc77b738312081419f8cca2e5ece5b6
+      internalID: 1786936559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_288
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4d74ca9f79c3445846ab726e8d25ce
+      internalID: -1761617485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_289
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423f0edc52f4a5c4799b5c1d07614ee8
+      internalID: 1086953042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_290
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa5492c72f666245b3437fdb0f340e5
+      internalID: 683615080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_291
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876af6503068a954da4d67ee9f80b0ce
+      internalID: -32876749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_292
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea31144a79c58f947a64935f5dda02ac
+      internalID: 733698999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_293
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e239037dfce6c4aad9f4bf2dc9d72f
+      internalID: -1837737024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_294
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7994ad13685429d46a5b7e74cfc2fa80
+      internalID: 1040321887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Pickup_Weapon_AssaultRifle_295
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d04201fa9ff7d499f2ed37fbeced2f
+      internalID: -1327750608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9750a92be8e2e344688a2de9c6742af2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Spritesheet_Pickup_Weapon_AssaultRifle_109: 1387703297
+      Spritesheet_Pickup_Weapon_AssaultRifle_239: 1271399658
+      Spritesheet_Pickup_Weapon_AssaultRifle_13: 1004339558
+      Spritesheet_Pickup_Weapon_AssaultRifle_87: 571481644
+      Spritesheet_Pickup_Weapon_AssaultRifle_268: 900767194
+      Spritesheet_Pickup_Weapon_AssaultRifle_130: -313771516
+      Spritesheet_Pickup_Weapon_AssaultRifle_226: -1414897896
+      Spritesheet_Pickup_Weapon_AssaultRifle_114: 1957457409
+      Spritesheet_Pickup_Weapon_AssaultRifle_215: 33561662
+      Spritesheet_Pickup_Weapon_AssaultRifle_216: 283145398
+      Spritesheet_Pickup_Weapon_AssaultRifle_265: 1979576920
+      Spritesheet_Pickup_Weapon_AssaultRifle_281: 765446130
+      Spritesheet_Pickup_Weapon_AssaultRifle_227: -1168588880
+      Spritesheet_Pickup_Weapon_AssaultRifle_11: -460826584
+      Spritesheet_Pickup_Weapon_AssaultRifle_76: 1952679311
+      Spritesheet_Pickup_Weapon_AssaultRifle_51: -771490992
+      Spritesheet_Pickup_Weapon_AssaultRifle_102: 1364191755
+      Spritesheet_Pickup_Weapon_AssaultRifle_185: 900866765
+      Spritesheet_Pickup_Weapon_AssaultRifle_36: -677103440
+      Spritesheet_Pickup_Weapon_AssaultRifle_31: 784402517
+      Spritesheet_Pickup_Weapon_AssaultRifle_119: -2125997606
+      Spritesheet_Pickup_Weapon_AssaultRifle_122: 1491566951
+      Spritesheet_Pickup_Weapon_AssaultRifle_188: 815026649
+      Spritesheet_Pickup_Weapon_AssaultRifle_88: 1511299121
+      Spritesheet_Pickup_Weapon_AssaultRifle_230: 880700828
+      Spritesheet_Pickup_Weapon_AssaultRifle_108: 1652774382
+      Spritesheet_Pickup_Weapon_AssaultRifle_237: -605776244
+      Spritesheet_Pickup_Weapon_AssaultRifle_154: -749337335
+      Spritesheet_Pickup_Weapon_AssaultRifle_232: 2038004787
+      Spritesheet_Pickup_Weapon_AssaultRifle_157: -1138411186
+      Spritesheet_Pickup_Weapon_AssaultRifle_286: 1774458854
+      Spritesheet_Pickup_Weapon_AssaultRifle_247: 388387895
+      Spritesheet_Pickup_Weapon_AssaultRifle_0: 1773325472
+      Spritesheet_Pickup_Weapon_AssaultRifle_110: -326370879
+      Spritesheet_Pickup_Weapon_AssaultRifle_258: -965927151
+      Spritesheet_Pickup_Weapon_AssaultRifle_242: -1090941848
+      Spritesheet_Pickup_Weapon_AssaultRifle_277: -1994315590
+      Spritesheet_Pickup_Weapon_AssaultRifle_15: 857378618
+      Spritesheet_Pickup_Weapon_AssaultRifle_289: 1086953042
+      Spritesheet_Pickup_Weapon_AssaultRifle_18: -1077322595
+      Spritesheet_Pickup_Weapon_AssaultRifle_291: -32876749
+      Spritesheet_Pickup_Weapon_AssaultRifle_139: 1566544761
+      Spritesheet_Pickup_Weapon_AssaultRifle_251: 530814183
+      Spritesheet_Pickup_Weapon_AssaultRifle_126: 1842924705
+      Spritesheet_Pickup_Weapon_AssaultRifle_94: 1947592105
+      Spritesheet_Pickup_Weapon_AssaultRifle_218: 191854741
+      Spritesheet_Pickup_Weapon_AssaultRifle_192: -1678613197
+      Spritesheet_Pickup_Weapon_AssaultRifle_206: -1001357757
+      Spritesheet_Pickup_Weapon_AssaultRifle_193: 2025859425
+      Spritesheet_Pickup_Weapon_AssaultRifle_253: -1444157193
+      Spritesheet_Pickup_Weapon_AssaultRifle_5: -1568367885
+      Spritesheet_Pickup_Weapon_AssaultRifle_73: 479591779
+      Spritesheet_Pickup_Weapon_AssaultRifle_39: 1411043662
+      Spritesheet_Pickup_Weapon_AssaultRifle_104: 530747373
+      Spritesheet_Pickup_Weapon_AssaultRifle_152: -837460857
+      Spritesheet_Pickup_Weapon_AssaultRifle_172: 652975685
+      Spritesheet_Pickup_Weapon_AssaultRifle_236: -306190625
+      Spritesheet_Pickup_Weapon_AssaultRifle_294: 1040321887
+      Spritesheet_Pickup_Weapon_AssaultRifle_284: 707754652
+      Spritesheet_Pickup_Weapon_AssaultRifle_176: -1850838259
+      Spritesheet_Pickup_Weapon_AssaultRifle_238: -1734073248
+      Spritesheet_Pickup_Weapon_AssaultRifle_68: -1101180991
+      Spritesheet_Pickup_Weapon_AssaultRifle_86: -231224977
+      Spritesheet_Pickup_Weapon_AssaultRifle_278: 229601147
+      Spritesheet_Pickup_Weapon_AssaultRifle_194: 1460524223
+      Spritesheet_Pickup_Weapon_AssaultRifle_107: -1853755313
+      Spritesheet_Pickup_Weapon_AssaultRifle_285: 1875517458
+      Spritesheet_Pickup_Weapon_AssaultRifle_44: 637113982
+      Spritesheet_Pickup_Weapon_AssaultRifle_10: 1908178091
+      Spritesheet_Pickup_Weapon_AssaultRifle_100: 722787330
+      Spritesheet_Pickup_Weapon_AssaultRifle_266: 1470086314
+      Spritesheet_Pickup_Weapon_AssaultRifle_140: -555998761
+      Spritesheet_Pickup_Weapon_AssaultRifle_290: 683615080
+      Spritesheet_Pickup_Weapon_AssaultRifle_184: 2098374069
+      Spritesheet_Pickup_Weapon_AssaultRifle_32: -999409679
+      Spritesheet_Pickup_Weapon_AssaultRifle_150: -1996831848
+      Spritesheet_Pickup_Weapon_AssaultRifle_199: 1684733583
+      Spritesheet_Pickup_Weapon_AssaultRifle_45: -2048172417
+      Spritesheet_Pickup_Weapon_AssaultRifle_153: 562425729
+      Spritesheet_Pickup_Weapon_AssaultRifle_106: -424345184
+      Spritesheet_Pickup_Weapon_AssaultRifle_66: -1477801760
+      Spritesheet_Pickup_Weapon_AssaultRifle_30: -2028975049
+      Spritesheet_Pickup_Weapon_AssaultRifle_12: 58871189
+      Spritesheet_Pickup_Weapon_AssaultRifle_92: 85610408
+      Spritesheet_Pickup_Weapon_AssaultRifle_191: 876347755
+      Spritesheet_Pickup_Weapon_AssaultRifle_124: 1147265107
+      Spritesheet_Pickup_Weapon_AssaultRifle_156: 1631800911
+      Spritesheet_Pickup_Weapon_AssaultRifle_224: -351805204
+      Spritesheet_Pickup_Weapon_AssaultRifle_33: -1690666280
+      Spritesheet_Pickup_Weapon_AssaultRifle_210: 750628007
+      Spritesheet_Pickup_Weapon_AssaultRifle_279: -901875153
+      Spritesheet_Pickup_Weapon_AssaultRifle_79: 941387590
+      Spritesheet_Pickup_Weapon_AssaultRifle_25: -1733961744
+      Spritesheet_Pickup_Weapon_AssaultRifle_53: -1975663879
+      Spritesheet_Pickup_Weapon_AssaultRifle_48: -2078563619
+      Spritesheet_Pickup_Weapon_AssaultRifle_270: 1944693747
+      Spritesheet_Pickup_Weapon_AssaultRifle_105: -822619146
+      Spritesheet_Pickup_Weapon_AssaultRifle_29: -1026065080
+      Spritesheet_Pickup_Weapon_AssaultRifle_136: 1117612720
+      Spritesheet_Pickup_Weapon_AssaultRifle_179: 321264159
+      Spritesheet_Pickup_Weapon_AssaultRifle_113: 476507610
+      Spritesheet_Pickup_Weapon_AssaultRifle_212: 156974127
+      Spritesheet_Pickup_Weapon_AssaultRifle_142: 1960687556
+      Spritesheet_Pickup_Weapon_AssaultRifle_61: -1011874874
+      Spritesheet_Pickup_Weapon_AssaultRifle_211: -1920069741
+      Spritesheet_Pickup_Weapon_AssaultRifle_287: 1786936559
+      Spritesheet_Pickup_Weapon_AssaultRifle_248: 2131000522
+      Spritesheet_Pickup_Weapon_AssaultRifle_264: -1808893869
+      Spritesheet_Pickup_Weapon_AssaultRifle_19: 872873547
+      Spritesheet_Pickup_Weapon_AssaultRifle_182: -126392801
+      Spritesheet_Pickup_Weapon_AssaultRifle_27: -1407280144
+      Spritesheet_Pickup_Weapon_AssaultRifle_205: 1823694644
+      Spritesheet_Pickup_Weapon_AssaultRifle_28: 405129684
+      Spritesheet_Pickup_Weapon_AssaultRifle_151: 1105968386
+      Spritesheet_Pickup_Weapon_AssaultRifle_283: 1193531527
+      Spritesheet_Pickup_Weapon_AssaultRifle_42: -833656519
+      Spritesheet_Pickup_Weapon_AssaultRifle_60: 752996160
+      Spritesheet_Pickup_Weapon_AssaultRifle_112: -224976552
+      Spritesheet_Pickup_Weapon_AssaultRifle_72: 1218009504
+      Spritesheet_Pickup_Weapon_AssaultRifle_16: 1422310613
+      Spritesheet_Pickup_Weapon_AssaultRifle_117: 1085486431
+      Spritesheet_Pickup_Weapon_AssaultRifle_276: 1177139199
+      Spritesheet_Pickup_Weapon_AssaultRifle_203: -540053046
+      Spritesheet_Pickup_Weapon_AssaultRifle_183: 1700252202
+      Spritesheet_Pickup_Weapon_AssaultRifle_69: -1455952619
+      Spritesheet_Pickup_Weapon_AssaultRifle_145: -1226236713
+      Spritesheet_Pickup_Weapon_AssaultRifle_187: 1277560803
+      Spritesheet_Pickup_Weapon_AssaultRifle_168: 1196332998
+      Spritesheet_Pickup_Weapon_AssaultRifle_111: -1560464798
+      Spritesheet_Pickup_Weapon_AssaultRifle_1: 1039138267
+      Spritesheet_Pickup_Weapon_AssaultRifle_180: -753970747
+      Spritesheet_Pickup_Weapon_AssaultRifle_57: 463736564
+      Spritesheet_Pickup_Weapon_AssaultRifle_170: 53706708
+      Spritesheet_Pickup_Weapon_AssaultRifle_160: 356978325
+      Spritesheet_Pickup_Weapon_AssaultRifle_163: -2129455308
+      Spritesheet_Pickup_Weapon_AssaultRifle_75: 1915868886
+      Spritesheet_Pickup_Weapon_AssaultRifle_55: -265615487
+      Spritesheet_Pickup_Weapon_AssaultRifle_34: 1589944176
+      Spritesheet_Pickup_Weapon_AssaultRifle_148: 1121652957
+      Spritesheet_Pickup_Weapon_AssaultRifle_252: 1968753029
+      Spritesheet_Pickup_Weapon_AssaultRifle_263: -234838375
+      Spritesheet_Pickup_Weapon_AssaultRifle_158: -1912911643
+      Spritesheet_Pickup_Weapon_AssaultRifle_62: 983061525
+      Spritesheet_Pickup_Weapon_AssaultRifle_95: 1922053960
+      Spritesheet_Pickup_Weapon_AssaultRifle_43: 261800064
+      Spritesheet_Pickup_Weapon_AssaultRifle_125: 176105824
+      Spritesheet_Pickup_Weapon_AssaultRifle_169: 204124827
+      Spritesheet_Pickup_Weapon_AssaultRifle_189: 1696866069
+      Spritesheet_Pickup_Weapon_AssaultRifle_71: 638067501
+      Spritesheet_Pickup_Weapon_AssaultRifle_103: 847549706
+      Spritesheet_Pickup_Weapon_AssaultRifle_260: 1449749991
+      Spritesheet_Pickup_Weapon_AssaultRifle_56: 1046456915
+      Spritesheet_Pickup_Weapon_AssaultRifle_133: 1295585866
+      Spritesheet_Pickup_Weapon_AssaultRifle_65: 884902813
+      Spritesheet_Pickup_Weapon_AssaultRifle_250: 1014125095
+      Spritesheet_Pickup_Weapon_AssaultRifle_52: -1266918330
+      Spritesheet_Pickup_Weapon_AssaultRifle_245: -449107641
+      Spritesheet_Pickup_Weapon_AssaultRifle_196: 1148416160
+      Spritesheet_Pickup_Weapon_AssaultRifle_46: 994245077
+      Spritesheet_Pickup_Weapon_AssaultRifle_159: 894904604
+      Spritesheet_Pickup_Weapon_AssaultRifle_134: -1021207582
+      Spritesheet_Pickup_Weapon_AssaultRifle_118: -369354102
+      Spritesheet_Pickup_Weapon_AssaultRifle_64: 1794757204
+      Spritesheet_Pickup_Weapon_AssaultRifle_175: 417871583
+      Spritesheet_Pickup_Weapon_AssaultRifle_241: 648103980
+      Spritesheet_Pickup_Weapon_AssaultRifle_256: -1062581076
+      Spritesheet_Pickup_Weapon_AssaultRifle_24: -848426812
+      Spritesheet_Pickup_Weapon_AssaultRifle_38: -1435789201
+      Spritesheet_Pickup_Weapon_AssaultRifle_97: -1496118054
+      Spritesheet_Pickup_Weapon_AssaultRifle_213: -1170312147
+      Spritesheet_Pickup_Weapon_AssaultRifle_129: -537969898
+      Spritesheet_Pickup_Weapon_AssaultRifle_235: 1585637859
+      Spritesheet_Pickup_Weapon_AssaultRifle_63: 2032329210
+      Spritesheet_Pickup_Weapon_AssaultRifle_200: -1958683041
+      Spritesheet_Pickup_Weapon_AssaultRifle_249: -1198820111
+      Spritesheet_Pickup_Weapon_AssaultRifle_59: 2136309619
+      Spritesheet_Pickup_Weapon_AssaultRifle_131: -1218509118
+      Spritesheet_Pickup_Weapon_AssaultRifle_171: -1802280514
+      Spritesheet_Pickup_Weapon_AssaultRifle_214: -1792762259
+      Spritesheet_Pickup_Weapon_AssaultRifle_280: 1335402370
+      Spritesheet_Pickup_Weapon_AssaultRifle_49: -678455335
+      Spritesheet_Pickup_Weapon_AssaultRifle_229: -943315219
+      Spritesheet_Pickup_Weapon_AssaultRifle_244: 183816946
+      Spritesheet_Pickup_Weapon_AssaultRifle_4: 717362150
+      Spritesheet_Pickup_Weapon_AssaultRifle_272: 1989383163
+      Spritesheet_Pickup_Weapon_AssaultRifle_54: -887349913
+      Spritesheet_Pickup_Weapon_AssaultRifle_174: 1667312697
+      Spritesheet_Pickup_Weapon_AssaultRifle_246: -421824695
+      Spritesheet_Pickup_Weapon_AssaultRifle_41: -1002890366
+      Spritesheet_Pickup_Weapon_AssaultRifle_282: 2017029513
+      Spritesheet_Pickup_Weapon_AssaultRifle_47: 1060887341
+      Spritesheet_Pickup_Weapon_AssaultRifle_6: -1469059597
+      Spritesheet_Pickup_Weapon_AssaultRifle_50: 200414632
+      Spritesheet_Pickup_Weapon_AssaultRifle_225: -1682668690
+      Spritesheet_Pickup_Weapon_AssaultRifle_177: -1561153851
+      Spritesheet_Pickup_Weapon_AssaultRifle_20: 1350614944
+      Spritesheet_Pickup_Weapon_AssaultRifle_228: -2034203065
+      Spritesheet_Pickup_Weapon_AssaultRifle_288: -1761617485
+      Spritesheet_Pickup_Weapon_AssaultRifle_74: -495541304
+      Spritesheet_Pickup_Weapon_AssaultRifle_201: -1893341419
+      Spritesheet_Pickup_Weapon_AssaultRifle_273: 2091917162
+      Spritesheet_Pickup_Weapon_AssaultRifle_137: 1896756748
+      Spritesheet_Pickup_Weapon_AssaultRifle_149: 1328391350
+      Spritesheet_Pickup_Weapon_AssaultRifle_295: -1327750608
+      Spritesheet_Pickup_Weapon_AssaultRifle_143: 1396336632
+      Spritesheet_Pickup_Weapon_AssaultRifle_271: 285105365
+      Spritesheet_Pickup_Weapon_AssaultRifle_292: 733698999
+      Spritesheet_Pickup_Weapon_AssaultRifle_181: 155959904
+      Spritesheet_Pickup_Weapon_AssaultRifle_259: 792790519
+      Spritesheet_Pickup_Weapon_AssaultRifle_98: 810952599
+      Spritesheet_Pickup_Weapon_AssaultRifle_261: 561567070
+      Spritesheet_Pickup_Weapon_AssaultRifle_99: 1886147196
+      Spritesheet_Pickup_Weapon_AssaultRifle_85: -1637525757
+      Spritesheet_Pickup_Weapon_AssaultRifle_135: -872587978
+      Spritesheet_Pickup_Weapon_AssaultRifle_123: 534019259
+      Spritesheet_Pickup_Weapon_AssaultRifle_219: -1619857356
+      Spritesheet_Pickup_Weapon_AssaultRifle_96: -2138922643
+      Spritesheet_Pickup_Weapon_AssaultRifle_138: -1164846007
+      Spritesheet_Pickup_Weapon_AssaultRifle_17: 5464827
+      Spritesheet_Pickup_Weapon_AssaultRifle_91: 66983986
+      Spritesheet_Pickup_Weapon_AssaultRifle_207: 981609959
+      Spritesheet_Pickup_Weapon_AssaultRifle_58: -1306076074
+      Spritesheet_Pickup_Weapon_AssaultRifle_82: -501364359
+      Spritesheet_Pickup_Weapon_AssaultRifle_231: 1964835604
+      Spritesheet_Pickup_Weapon_AssaultRifle_254: -1545065495
+      Spritesheet_Pickup_Weapon_AssaultRifle_22: -2078988063
+      Spritesheet_Pickup_Weapon_AssaultRifle_267: -2080483426
+      Spritesheet_Pickup_Weapon_AssaultRifle_269: 1014112888
+      Spritesheet_Pickup_Weapon_AssaultRifle_80: -1721117991
+      Spritesheet_Pickup_Weapon_AssaultRifle_101: 1485128269
+      Spritesheet_Pickup_Weapon_AssaultRifle_132: 661204041
+      Spritesheet_Pickup_Weapon_AssaultRifle_83: 1530500778
+      Spritesheet_Pickup_Weapon_AssaultRifle_155: 1379311823
+      Spritesheet_Pickup_Weapon_AssaultRifle_141: -1335184174
+      Spritesheet_Pickup_Weapon_AssaultRifle_26: 83042718
+      Spritesheet_Pickup_Weapon_AssaultRifle_146: 217156675
+      Spritesheet_Pickup_Weapon_AssaultRifle_144: -1426582628
+      Spritesheet_Pickup_Weapon_AssaultRifle_7: 184756783
+      Spritesheet_Pickup_Weapon_AssaultRifle_90: -926536315
+      Spritesheet_Pickup_Weapon_AssaultRifle_195: -958751660
+      Spritesheet_Pickup_Weapon_AssaultRifle_89: 1940583743
+      Spritesheet_Pickup_Weapon_AssaultRifle_198: -1551401205
+      Spritesheet_Pickup_Weapon_AssaultRifle_81: 158132261
+      Spritesheet_Pickup_Weapon_AssaultRifle_167: -244066463
+      Spritesheet_Pickup_Weapon_AssaultRifle_121: -178818128
+      Spritesheet_Pickup_Weapon_AssaultRifle_217: -1675527502
+      Spritesheet_Pickup_Weapon_AssaultRifle_275: -297237076
+      Spritesheet_Pickup_Weapon_AssaultRifle_161: 878548069
+      Spritesheet_Pickup_Weapon_AssaultRifle_186: 2137540579
+      Spritesheet_Pickup_Weapon_AssaultRifle_147: 1143996853
+      Spritesheet_Pickup_Weapon_AssaultRifle_40: 146720191
+      Spritesheet_Pickup_Weapon_AssaultRifle_233: 2019081588
+      Spritesheet_Pickup_Weapon_AssaultRifle_223: 93455032
+      Spritesheet_Pickup_Weapon_AssaultRifle_8: 1085185390
+      Spritesheet_Pickup_Weapon_AssaultRifle_77: -773715963
+      Spritesheet_Pickup_Weapon_AssaultRifle_35: 1033540018
+      Spritesheet_Pickup_Weapon_AssaultRifle_293: -1837737024
+      Spritesheet_Pickup_Weapon_AssaultRifle_21: -821439502
+      Spritesheet_Pickup_Weapon_AssaultRifle_70: -168219633
+      Spritesheet_Pickup_Weapon_AssaultRifle_166: 133219149
+      Spritesheet_Pickup_Weapon_AssaultRifle_164: 361135280
+      Spritesheet_Pickup_Weapon_AssaultRifle_220: -1522944622
+      Spritesheet_Pickup_Weapon_AssaultRifle_3: 1603701157
+      Spritesheet_Pickup_Weapon_AssaultRifle_115: 1833441473
+      Spritesheet_Pickup_Weapon_AssaultRifle_222: 1726196834
+      Spritesheet_Pickup_Weapon_AssaultRifle_243: -2049604347
+      Spritesheet_Pickup_Weapon_AssaultRifle_127: -2121239011
+      Spritesheet_Pickup_Weapon_AssaultRifle_14: -1620283483
+      Spritesheet_Pickup_Weapon_AssaultRifle_190: -1289492251
+      Spritesheet_Pickup_Weapon_AssaultRifle_120: 1544833451
+      Spritesheet_Pickup_Weapon_AssaultRifle_67: -1571481978
+      Spritesheet_Pickup_Weapon_AssaultRifle_78: -1105126701
+      Spritesheet_Pickup_Weapon_AssaultRifle_93: -261597635
+      Spritesheet_Pickup_Weapon_AssaultRifle_23: -1885365343
+      Spritesheet_Pickup_Weapon_AssaultRifle_116: -279315361
+      Spritesheet_Pickup_Weapon_AssaultRifle_197: -1690823947
+      Spritesheet_Pickup_Weapon_AssaultRifle_165: -556473539
+      Spritesheet_Pickup_Weapon_AssaultRifle_208: 1557658120
+      Spritesheet_Pickup_Weapon_AssaultRifle_162: -345177616
+      Spritesheet_Pickup_Weapon_AssaultRifle_257: 1106325599
+      Spritesheet_Pickup_Weapon_AssaultRifle_255: 883365885
+      Spritesheet_Pickup_Weapon_AssaultRifle_209: 589774466
+      Spritesheet_Pickup_Weapon_AssaultRifle_274: -1333882217
+      Spritesheet_Pickup_Weapon_AssaultRifle_9: -293016876
+      Spritesheet_Pickup_Weapon_AssaultRifle_173: 1969984767
+      Spritesheet_Pickup_Weapon_AssaultRifle_240: 1775547970
+      Spritesheet_Pickup_Weapon_AssaultRifle_2: -1532744332
+      Spritesheet_Pickup_Weapon_AssaultRifle_128: -1721729735
+      Spritesheet_Pickup_Weapon_AssaultRifle_202: 1918829411
+      Spritesheet_Pickup_Weapon_AssaultRifle_84: 313392444
+      Spritesheet_Pickup_Weapon_AssaultRifle_234: -1303823276
+      Spritesheet_Pickup_Weapon_AssaultRifle_204: 1259610278
+      Spritesheet_Pickup_Weapon_AssaultRifle_221: -51572060
+      Spritesheet_Pickup_Weapon_AssaultRifle_262: -946784356
+      Spritesheet_Pickup_Weapon_AssaultRifle_178: -648029893
+      Spritesheet_Pickup_Weapon_AssaultRifle_37: -570258407
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -35,7 +35,7 @@ MonoBehaviour:
   ItemName: Assault Rifle
   ShortDescription: First used during World War II
   Description: A rapid-fire, magazine-fed automatic rifle designed for infantry use.
-  Icon: {fileID: 21300008, guid: b528708a5a8f28343aefa9e1d46670a7, type: 3}
+  Icon: {fileID: 1192228414, guid: 340d75bcdb1426540af7e34046807e95, type: 3}
   Prefab: {fileID: 1135282862314296, guid: 31967730f9b6ffc4f90155f86f7d5a87, type: 3}
   DropProperties:
     Shape: 0

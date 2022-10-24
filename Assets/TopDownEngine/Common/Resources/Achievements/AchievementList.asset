@@ -42,21 +42,21 @@ MonoBehaviour:
     AchievementType: 0
     HiddenAchievement: 0
     UnlockedStatus: 0
-    Title: Money Money Money
-    Description: Grab 3 coins
-    Points: 50
+    Title: Stonks
+    Description: Grab 10 coins
+    Points: 100
     LockedImage: {fileID: 21300010, guid: acc0224da40bd614eaa39fa27daa0b19, type: 3}
     UnlockedImage: {fileID: 21300004, guid: acc0224da40bd614eaa39fa27daa0b19, type: 3}
     UnlockedSound: {fileID: 0}
-    ProgressTarget: 3
+    ProgressTarget: 10
     ProgressCurrent: 0
   - AchievementID: DeathIsOnlyTheBeginning
     AchievementType: 0
     HiddenAchievement: 0
     UnlockedStatus: 0
-    Title: Death is only the Beginning
+    Title: First time?
     Description: Die for the first time
-    Points: 30
+    Points: 100
     LockedImage: {fileID: 21300010, guid: acc0224da40bd614eaa39fa27daa0b19, type: 3}
     UnlockedImage: {fileID: 21300008, guid: acc0224da40bd614eaa39fa27daa0b19, type: 3}
     UnlockedSound: {fileID: 0}
@@ -66,9 +66,9 @@ MonoBehaviour:
     AchievementType: 0
     HiddenAchievement: 0
     UnlockedStatus: 0
-    Title: Medic !
-    Description: Grab a health bonus
-    Points: 25
+    Title: Medic!
+    Description: Grab a health pickup
+    Points: 100
     LockedImage: {fileID: 21300010, guid: acc0224da40bd614eaa39fa27daa0b19, type: 3}
     UnlockedImage: {fileID: 21300006, guid: acc0224da40bd614eaa39fa27daa0b19, type: 3}
     UnlockedSound: {fileID: 0}

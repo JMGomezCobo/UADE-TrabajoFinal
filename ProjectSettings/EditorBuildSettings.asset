@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/TrabajoFinal/Scenes/MinimalSandbox2D 1.unity
+    path: Assets/TrabajoFinal/Scenes/DevelopmentScene.unity
     guid: 133e59af795ed32439e5fe90136f6914
   m_configObjects: {}

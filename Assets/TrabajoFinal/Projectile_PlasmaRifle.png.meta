@@ -1,0 +1,3422 @@
+fileFormatVersion: 2
+guid: bb7d5e5debe6af44e8bb145c0fbe77ad
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 392
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df3f1d4b11f07b49977cafd764b5204
+      internalID: 284264056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 392
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cbfd9fc7a77bd45be0484ddf01be93
+      internalID: -1566777664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 392
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa74fd36c9c6d3547a81930d1889692c
+      internalID: -1290939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 392
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811132f4d3fc84d459147c8414837129
+      internalID: -1525922043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 392
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cd70a47d8a81b4ab90e97eda76d906
+      internalID: 933003769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 392
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4846c4699cb661a46b2bb085adf9bfdf
+      internalID: -961627655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 392
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7243633add2da7f4ebe269e685ac4cfc
+      internalID: 1385294280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 392
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b2958f42a067b49a5ddd94caf7062f
+      internalID: -99642283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 392
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd9767bbb64d68499ac3125230d44d8
+      internalID: 1477423605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 392
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c74d8f85e11ef8458cc9ff3a2ca6ea2
+      internalID: 1353814994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 392
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a997f56c1459be45b92308e82b1eee9
+      internalID: 1557230592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 392
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502bb0a27bdeb844ab0123123b1a3fce
+      internalID: 1720218311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 392
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf7e9881e5fc204a91e8425be7463e3
+      internalID: -1843678047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 360
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf09341af3664bf40a80b27ef80afc1f
+      internalID: 1361065988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 360
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e29cd6ca6597f4d908fa91b1a34859
+      internalID: -1452989388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 360
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c06d9125d959249b42eec4a0d6036b
+      internalID: 647563745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 360
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a46074f8c95b4e4a8fe1899cddd466d
+      internalID: 1296686322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 360
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27a731a333dd674ca7fcb5c57cdc960
+      internalID: 2063373916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 360
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545457392edce994c81c83b0da58299d
+      internalID: 148157986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 360
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd7b798f4e5e334fb7a3a3864e69f1f
+      internalID: -1285640725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 360
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3e3f01c8859634dad59924329d9667
+      internalID: -1263938351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 360
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755b24097a2ded743adace58b7b76ff8
+      internalID: 879376520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 360
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ba11f674447e440987ae8fe57409e3
+      internalID: 51109096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 360
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1171e5733ab7c1f4094d303fa0ebdc33
+      internalID: -1223013388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_24
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 360
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca45ff15fb6e36845beddaeafb34c9d4
+      internalID: 105580117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_25
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 360
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22589511969d07f448188513fcbf8d7d
+      internalID: 729896024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 328
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09968b9a152eaae41b028bda648a8d5d
+      internalID: 2135947338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 328
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acccc6a68561b5d409fe0ddf77057dc0
+      internalID: 1339890861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 328
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fa8df1d33cd9a45a148387352ad96c
+      internalID: 1111206821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_29
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 328
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc57f56bc15db84dbdf298c3fc2ffd3
+      internalID: -40629869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_30
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 328
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb3a2ae1c6c7d14ca9d92138c4d0f4d
+      internalID: 394059803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 328
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2d40370938b46459a27926ac99ef67
+      internalID: -647176597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_32
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 328
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c909685d446e149986aaddf014bec9
+      internalID: -580753443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_33
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 328
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eab121bbed3954f8d4ce6e631045a1
+      internalID: -1434567212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_34
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 328
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7e91137dd89834092950399293c950
+      internalID: -1713291076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_35
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 328
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366168a338811c448a8c1a37392d0638
+      internalID: -450671489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_36
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 328
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcabcc59ae47da4e8a9a521e3c30606
+      internalID: -1004377096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_37
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 328
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae5fdb7c9c66384fbd354e092895d7d
+      internalID: 1248871128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_38
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 328
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6465968304f9bf4a8a21cb6d5cf5ecb
+      internalID: -1529984897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 296
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16427a251fde35e4cb9c137519c2907b
+      internalID: -1375956607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_40
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 296
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae1eca63d29ae043bac272bef9ecd4a
+      internalID: 2105256170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_41
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 296
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beff21dd9152b644b1d61955feca3f8
+      internalID: 222089318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_42
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 296
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df66be26516991469a79eae1bd2f33c
+      internalID: -233544420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 296
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9e373915dbfb248800c640a52c2f4b
+      internalID: -1966831073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_44
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 296
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce6c104f49366d45903e0db488ef3a0
+      internalID: 420485507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_45
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 296
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6567d51be83c80443b6cb33962e02890
+      internalID: 713466977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_46
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 296
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bbd079f5dde89469a1ecf03156383e
+      internalID: -1911384331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_47
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 296
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cbbbb5cd9a1e3479050e897934e520
+      internalID: 956261493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_48
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 296
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f1b0bfb0e1fb64c90f3e7465db5e7e
+      internalID: 228717182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_49
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 296
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6a2bd74be3b484197fc6b326e9f7e1
+      internalID: 142159134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_50
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 296
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da849137d78072479e39a813cad6302
+      internalID: 222957113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_51
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 296
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3098baf9daa4d5c4d9314fd058e26043
+      internalID: -1556525162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 264
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04bd4e69cab2b04cb1778a399ee3001
+      internalID: -1485709746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 264
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f8636592520fb428a7f3b04958fb8b
+      internalID: 2145698779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_54
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 264
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac4a71e6f6d35d4eb7fd43e0d8797bf
+      internalID: -1764975305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_55
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 264
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84c6834a3a7a3e49955c68e517a80c1
+      internalID: -524021607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_56
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 264
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275b8024144f80c4c85eb70d005d170d
+      internalID: 1358887079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_57
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 264
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d20cc9bdf46834f97b585c0eb535c7
+      internalID: -1656747309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_58
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 264
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff0f4e6abbfce14caf8aaf417f7835f
+      internalID: 813638001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_59
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 264
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a23b2bd8e8d2d54290ed3863128894c
+      internalID: 1367361756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_60
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 264
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc0d7d15dafc8d43882f85821658633
+      internalID: 1100169581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_61
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 264
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaeed4abc8dfd84f9ee68365a4cf161
+      internalID: -779094305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_62
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 264
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0842f9ed717eae64c95bc4962536fa90
+      internalID: -1865385319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_63
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 264
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43c809d77c8436418d73c164b796530
+      internalID: -103369118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_64
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 264
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b37afcc4dae6140b888bdc30cc8c05
+      internalID: 1475652865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_65
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 232
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536192b7f908c74458cfd94122bc343a
+      internalID: 1626539669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_66
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 232
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a72737568036e44b8e3de3b5441bd0
+      internalID: 1059184717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_67
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 232
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d76668e99a10ef479318ac58dfe342a
+      internalID: 1031393121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_68
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 232
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198263a105769b44b85d4b65db622fdc
+      internalID: -1850934777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_69
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 232
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804aaecae4b41864eadf12debd36d1af
+      internalID: 138937499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_70
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 232
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3a6a0e3ca84c84e8d9dd8afc392ffc
+      internalID: -282739548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_71
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 232
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b71c372de4894441ba8ebf47e603bac
+      internalID: -250126105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_72
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 232
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084f6dd2a5e1f00418f6adf9a3b85a9f
+      internalID: -67460147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_73
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 232
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c03e42c3e466134d950dd38bc814201
+      internalID: -550845215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_74
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 232
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fcb34fa08d9614f8e36fed9716c3d8
+      internalID: -163511280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_75
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 232
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71501d29cb73304d80c4cc285054329
+      internalID: 1343480747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_76
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 232
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4847647c4ea789b498c29f79584ffb7e
+      internalID: -1168989248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_77
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 232
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6677d1117dcd1864eb931885a0bfdb83
+      internalID: -1111930539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_78
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 200
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0347e4816906c774798d846999ddb86a
+      internalID: 1662136316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_79
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 200
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b678c7542ca844ca6efac38f0a7de0
+      internalID: 642933904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_80
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 200
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fead24e043484b43b1e7ea543aee8ae
+      internalID: -1654852151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_81
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 200
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ce26e3d78456349a704d9244961028
+      internalID: -756895546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_82
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 200
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fde148edd47704ea711ff1b2e79565
+      internalID: -1697471425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_83
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 200
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c21ee089eceec498e402165156a721
+      internalID: -1200328915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_84
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 200
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73d38509d7545f4ba97ba617469450f
+      internalID: -673387258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_85
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 200
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2287f91d32be01498709518fa6f78af
+      internalID: 1497910145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_86
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 200
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067a5cd59cc74b444a14dbfb8a20853b
+      internalID: -325897131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_87
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 200
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b33e2fee7f31a48b18c5727a6e2458
+      internalID: 2044580162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_88
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 200
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de25eca29b56379498e6c34a1c74c35c
+      internalID: 388226532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_89
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 200
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372f6d436a18f2f4aa3cb92b971d942a
+      internalID: 1782128082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_90
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 200
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae533e2ba8464f40af4f267fe762cf0
+      internalID: -721912415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_91
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2447238344dfb44b43f28ca6267dfe
+      internalID: -536677230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_92
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1bf82bfb5a9d74ea559b6af9176da4
+      internalID: 1893341901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_93
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7fe6508c1199a47b905658539148cc
+      internalID: 1149930020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_94
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572f735ce39d1bd4fb95926c654ea694
+      internalID: 891403866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_95
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24025a08d735b8b4fb940190dcc96963
+      internalID: 2016427833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_96
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2186b7cc15a4a84b880f7d8da1f8165
+      internalID: 545615809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_97
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351eaa4ba5904384f82443896b633655
+      internalID: -1440915208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_98
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333281d7f1f34f648a8020cda38b0478
+      internalID: 907151098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_99
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99839427684252c45860f4fdf701c1f4
+      internalID: -1993980155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_100
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2aff6244922f54aaddbad47b673e57
+      internalID: 466603075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_101
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631a202b85978884b9b2839537180e25
+      internalID: 888311106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_102
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d5b62e5602471408687f5c5d6275bd
+      internalID: 2107651603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_103
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fbe9613c4e03f4895b9a54f5596473
+      internalID: 628946083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_104
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ea2b38f81c46649a35106fed46d8fd
+      internalID: 558834949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_105
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35731c3bbc82f145b17120a73e85cbc
+      internalID: -538478255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_106
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee0976faf8c8414fa95eacf68f52644
+      internalID: 64366693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_107
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ffce3ba06e658468c2e55a171b85ec
+      internalID: 236773703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_108
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0598f4d5e5cb1044bca500a037e442b
+      internalID: -1827821790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_109
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf76f044b1c3d140ab5399aaf068f9b
+      internalID: 782547036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_110
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7018214ee83cd3140b5154f07faa71e3
+      internalID: 1453550234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_111
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de0b5e4c791b18429c142084b85c436
+      internalID: -1380420143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_112
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abd0ec85052e4345b8cfcd04d564ff9
+      internalID: 1530507792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_113
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160d693a2c3381d4aa3e176a5a2bca5b
+      internalID: -1692881904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_114
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9512446b79bf99a45b551915adbb743b
+      internalID: -556698871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_115
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8751348d79240334c8df73dcd3de1503
+      internalID: 1681371326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_116
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f486f946eb7bba4ab1ff0069949a73c
+      internalID: 2019341369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_117
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d2f1fcadcfd34428b219ab29a5b845
+      internalID: 1077562107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_118
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1073731b0ee59ab42ad6de2f62bd32da
+      internalID: -1737149431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_119
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c22d4cb21c7ae4a90bea059fbe619c
+      internalID: -428683313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_120
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d959a4b9f8b0447b36a73c7a1dfd6f
+      internalID: 1749564794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_121
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7713f785eaf2f7341b149064e40049e5
+      internalID: 167118046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_122
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130ff0c35af171c42b5cf8a485555979
+      internalID: 1153067802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_123
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeda9ade8bbaeb4c993c85b3d0c47b4
+      internalID: 1591388242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_124
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6344c00216da0324d82e517c4d2af771
+      internalID: 1099838482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_125
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15acc3de5adb8d9428f2c9c546fa0c79
+      internalID: -80514570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_126
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d363526de4595c64580ead739fae7d18
+      internalID: 1583268335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_127
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076d734fa4c85214792d6bb3dfc44ca5
+      internalID: 440211868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_128
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1b047a384338c478cb477b00965e9e
+      internalID: -241122005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_129
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710742377984b964cb21bf358806cfb3
+      internalID: -217086344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_130
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c37c4955f1503c4bb0a27504ec7e355
+      internalID: -1671208997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_131
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319a1a16c34bde347ad477b9a459af8c
+      internalID: 2130657154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_132
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702188d9971933f40abd9abea14ac2fd
+      internalID: 485469640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_133
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a945ae154eba2dc4ca0bc2c1e0e893d8
+      internalID: -1929663004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_134
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965d8b055061ac64fb296ba741148c23
+      internalID: 1258308855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_135
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bca3f18cc93bc49b054d13d0e59622
+      internalID: 1638617497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_136
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33ece5fdf572814089d66bda22f72e5
+      internalID: -1734895283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_137
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d85a7fc85cde341a2483dc45a104eb
+      internalID: -1814129402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_138
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7752db1e386c64db1ecd80bbeaee59
+      internalID: 462878366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_139
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7879b24fcee3c78479b5ecc06f1566cb
+      internalID: 1793602906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_140
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3209592ca6319b14993fce4e13e14464
+      internalID: -713800927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_141
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cf57a8f56efae4093a8964ef5abe1c
+      internalID: -1747280228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_142
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bd1b8da4d2d094aa1081a582362799
+      internalID: -1784319026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_143
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 40
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d77d5ef51534a4a9e387ed9c7b1da0
+      internalID: -1939642864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_144
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 40
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b88f7f51c477b649abe860adeb26439
+      internalID: 1142911784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_145
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 40
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939d9e5399402004dbc607015702e289
+      internalID: 1847020104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_146
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 40
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d227d36864300a44c98780a805c536eb
+      internalID: -2026341373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_147
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 40
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91564f22fd7e6841abc2a0732d0762a
+      internalID: 1194523263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_148
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 40
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d284e2f792b6b7d40a3f1bde81e54393
+      internalID: -1101699624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_PlasmaRifle_149
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 40
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0152f94f0f3ce44c9878843b8086906
+      internalID: -556174236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 06103a043d541ac478368c2cec539ffd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Projectile_PlasmaRifle_11: 1720218311
+      Projectile_PlasmaRifle_53: 2145698779
+      Projectile_PlasmaRifle_86: -325897131
+      Projectile_PlasmaRifle_126: 1583268335
+      Projectile_PlasmaRifle_16: 1296686322
+      Projectile_PlasmaRifle_114: -556698871
+      Projectile_PlasmaRifle_31: -647176597
+      Projectile_PlasmaRifle_113: -1692881904
+      Projectile_PlasmaRifle_117: 1077562107
+      Projectile_PlasmaRifle_101: 888311106
+      Projectile_PlasmaRifle_119: -428683313
+      Projectile_PlasmaRifle_84: -673387258
+      Projectile_PlasmaRifle_143: -1939642864
+      Projectile_PlasmaRifle_48: 228717182
+      Projectile_PlasmaRifle_66: 1059184717
+      Projectile_PlasmaRifle_77: -1111930539
+      Projectile_PlasmaRifle_97: -1440915208
+      Projectile_PlasmaRifle_149: -556174236
+      Projectile_PlasmaRifle_23: -1223013388
+      Projectile_PlasmaRifle_133: -1929663004
+      Projectile_PlasmaRifle_39: -1375956607
+      Projectile_PlasmaRifle_74: -163511280
+      Projectile_PlasmaRifle_9: 1353814994
+      Projectile_PlasmaRifle_94: 891403866
+      Projectile_PlasmaRifle_98: 907151098
+      Projectile_PlasmaRifle_46: -1911384331
+      Projectile_PlasmaRifle_62: -1865385319
+      Projectile_PlasmaRifle_78: 1662136316
+      Projectile_PlasmaRifle_105: -538478255
+      Projectile_PlasmaRifle_33: -1434567212
+      Projectile_PlasmaRifle_37: 1248871128
+      Projectile_PlasmaRifle_50: 222957113
+      Projectile_PlasmaRifle_108: -1827821790
+      Projectile_PlasmaRifle_22: 51109096
+      Projectile_PlasmaRifle_88: 388226532
+      Projectile_PlasmaRifle_146: -2026341373
+      Projectile_PlasmaRifle_109: 782547036
+      Projectile_PlasmaRifle_91: -536677230
+      Projectile_PlasmaRifle_58: 813638001
+      Projectile_PlasmaRifle_73: -550845215
+      Projectile_PlasmaRifle_12: -1843678047
+      Projectile_PlasmaRifle_76: -1168989248
+      Projectile_PlasmaRifle_51: -1556525162
+      Projectile_PlasmaRifle_60: 1100169581
+      Projectile_PlasmaRifle_28: 1111206821
+      Projectile_PlasmaRifle_56: 1358887079
+      Projectile_PlasmaRifle_79: 642933904
+      Projectile_PlasmaRifle_87: 2044580162
+      Projectile_PlasmaRifle_8: 1477423605
+      Projectile_PlasmaRifle_19: -1285640725
+      Projectile_PlasmaRifle_34: -1713291076
+      Projectile_PlasmaRifle_144: 1142911784
+      Projectile_PlasmaRifle_142: -1784319026
+      Projectile_PlasmaRifle_118: -1737149431
+      Projectile_PlasmaRifle_83: -1200328915
+      Projectile_PlasmaRifle_69: 138937499
+      Projectile_PlasmaRifle_120: 1749564794
+      Projectile_PlasmaRifle_71: -250126105
+      Projectile_PlasmaRifle_136: -1734895283
+      Projectile_PlasmaRifle_122: 1153067802
+      Projectile_PlasmaRifle_15: 647563745
+      Projectile_PlasmaRifle_64: 1475652865
+      Projectile_PlasmaRifle_129: -217086344
+      Projectile_PlasmaRifle_72: -67460147
+      Projectile_PlasmaRifle_20: -1263938351
+      Projectile_PlasmaRifle_59: 1367361756
+      Projectile_PlasmaRifle_112: 1530507792
+      Projectile_PlasmaRifle_29: -40629869
+      Projectile_PlasmaRifle_7: -99642283
+      Projectile_PlasmaRifle_135: 1638617497
+      Projectile_PlasmaRifle_145: 1847020104
+      Projectile_PlasmaRifle_123: 1591388242
+      Projectile_PlasmaRifle_49: 142159134
+      Projectile_PlasmaRifle_45: 713466977
+      Projectile_PlasmaRifle_92: 1893341901
+      Projectile_PlasmaRifle_81: -756895546
+      Projectile_PlasmaRifle_40: 2105256170
+      Projectile_PlasmaRifle_3: -1525922043
+      Projectile_PlasmaRifle_116: 2019341369
+      Projectile_PlasmaRifle_147: 1194523263
+      Projectile_PlasmaRifle_38: -1529984897
+      Projectile_PlasmaRifle_82: -1697471425
+      Projectile_PlasmaRifle_111: -1380420143
+      Projectile_PlasmaRifle_17: 2063373916
+      Projectile_PlasmaRifle_139: 1793602906
+      Projectile_PlasmaRifle_131: 2130657154
+      Projectile_PlasmaRifle_61: -779094305
+      Projectile_PlasmaRifle_89: 1782128082
+      Projectile_PlasmaRifle_124: 1099838482
+      Projectile_PlasmaRifle_107: 236773703
+      Projectile_PlasmaRifle_132: 485469640
+      Projectile_PlasmaRifle_140: -713800927
+      Projectile_PlasmaRifle_75: 1343480747
+      Projectile_PlasmaRifle_2: -1290939
+      Projectile_PlasmaRifle_57: -1656747309
+      Projectile_PlasmaRifle_95: 2016427833
+      Projectile_PlasmaRifle_96: 545615809
+      Projectile_PlasmaRifle_26: 2135947338
+      Projectile_PlasmaRifle_103: 628946083
+      Projectile_PlasmaRifle_85: 1497910145
+      Projectile_PlasmaRifle_148: -1101699624
+      Projectile_PlasmaRifle_25: 729896024
+      Projectile_PlasmaRifle_13: 1361065988
+      Projectile_PlasmaRifle_63: -103369118
+      Projectile_PlasmaRifle_1: -1566777664
+      Projectile_PlasmaRifle_127: 440211868
+      Projectile_PlasmaRifle_10: 1557230592
+      Projectile_PlasmaRifle_42: -233544420
+      Projectile_PlasmaRifle_4: 933003769
+      Projectile_PlasmaRifle_43: -1966831073
+      Projectile_PlasmaRifle_35: -450671489
+      Projectile_PlasmaRifle_104: 558834949
+      Projectile_PlasmaRifle_67: 1031393121
+      Projectile_PlasmaRifle_128: -241122005
+      Projectile_PlasmaRifle_68: -1850934777
+      Projectile_PlasmaRifle_137: -1814129402
+      Projectile_PlasmaRifle_14: -1452989388
+      Projectile_PlasmaRifle_6: 1385294280
+      Projectile_PlasmaRifle_27: 1339890861
+      Projectile_PlasmaRifle_55: -524021607
+      Projectile_PlasmaRifle_30: 394059803
+      Projectile_PlasmaRifle_36: -1004377096
+      Projectile_PlasmaRifle_125: -80514570
+      Projectile_PlasmaRifle_52: -1485709746
+      Projectile_PlasmaRifle_44: 420485507
+      Projectile_PlasmaRifle_90: -721912415
+      Projectile_PlasmaRifle_5: -961627655
+      Projectile_PlasmaRifle_70: -282739548
+      Projectile_PlasmaRifle_121: 167118046
+      Projectile_PlasmaRifle_80: -1654852151
+      Projectile_PlasmaRifle_47: 956261493
+      Projectile_PlasmaRifle_115: 1681371326
+      Projectile_PlasmaRifle_141: -1747280228
+      Projectile_PlasmaRifle_99: -1993980155
+      Projectile_PlasmaRifle_110: 1453550234
+      Projectile_PlasmaRifle_0: 284264056
+      Projectile_PlasmaRifle_100: 466603075
+      Projectile_PlasmaRifle_134: 1258308855
+      Projectile_PlasmaRifle_32: -580753443
+      Projectile_PlasmaRifle_102: 2107651603
+      Projectile_PlasmaRifle_54: -1764975305
+      Projectile_PlasmaRifle_24: 105580117
+      Projectile_PlasmaRifle_65: 1626539669
+      Projectile_PlasmaRifle_106: 64366693
+      Projectile_PlasmaRifle_21: 879376520
+      Projectile_PlasmaRifle_93: 1149930020
+      Projectile_PlasmaRifle_130: -1671208997
+      Projectile_PlasmaRifle_138: 462878366
+      Projectile_PlasmaRifle_18: 148157986
+      Projectile_PlasmaRifle_41: 222089318
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
