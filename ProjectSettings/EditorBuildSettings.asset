@@ -5,7 +5,19 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/TrabajoFinal/Scenes/DevelopmentScene.unity
-    guid: 133e59af795ed32439e5fe90136f6914
+    path: Assets/TrabajoFinal/Scenes/LevelSelection.unity
+    guid: 8bfc2081a96f43b4e8e0403b81257357
+  - enabled: 1
+    path: Assets/TrabajoFinal/Scenes/MMAdditiveLoadingScreen 1.unity
+    guid: df6a56514e2037546824f612d57e4c6d
+  - enabled: 1
+    path: Assets/TrabajoFinal/Scenes/Level_1.unity
+    guid: a6fb0b02de1effe4db48e595d729df18
+  - enabled: 1
+    path: Assets/TrabajoFinal/Scenes/LoadingScreen.unity
+    guid: 888394d52616e5e42b3b54c3f2bbd3eb
   m_configObjects: {}
