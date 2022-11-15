@@ -10821,7 +10821,7 @@ MonoBehaviour:
           TargetBPM: 120
         Owner: {fileID: 2521447310552709533}
         DebugActive: 0
-        BoundRenderer: {fileID: 0}
+        BoundRenderer: {fileID: 212797044214329334}
         Mode: 0
         PropertyName: _Tint
         FlickerDuration: 0.2
@@ -11007,7 +11007,7 @@ MonoBehaviour:
         UniqueID: 907502136
         Label: MMFeedback_Sound
         Channel: 0
-        Chance: 100
+        Chance: 50
         DisplayColor: {r: 0.5058824, g: 0.14117648, b: 0.5686275, a: 1}
         Timing:
           TimescaleMode: 0
@@ -11087,7 +11087,7 @@ MonoBehaviour:
         UniqueID: 163950875
         Label: MMFeedback_ParticlesPlay
         Channel: 0
-        Chance: 47.8
+        Chance: 100
         DisplayColor: {r: 0.019607844, g: 0.48627454, b: 0.4431373, a: 1}
         Timing:
           TimescaleMode: 0

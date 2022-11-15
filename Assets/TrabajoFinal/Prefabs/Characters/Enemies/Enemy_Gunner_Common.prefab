@@ -96,7 +96,7 @@ MonoBehaviour:
         UniqueID: 907502136
         Label: MMFeedback_Sound
         Channel: 0
-        Chance: 100
+        Chance: 50
         DisplayColor: {r: 0.5058824, g: 0.14117648, b: 0.5686275, a: 1}
         Timing:
           TimescaleMode: 0
@@ -5047,7 +5047,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 90b4a85560efd8044ba3c7c82bef32f5, type: 2}
-  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5191,7 +5190,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.19}
+  m_Offset: {x: 0, y: 0.65}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -5202,7 +5201,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.6, y: 0.5}
+  m_Size: {x: 1, y: 1.5}
   m_EdgeRadius: 0
 --- !u!210 &2499236669365039319
 SortingGroup:
@@ -10820,7 +10819,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 90b4a85560efd8044ba3c7c82bef32f5, type: 2}
-  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -11052,7 +11050,7 @@ MonoBehaviour:
         UniqueID: 907502136
         Label: MMFeedback_Sound
         Channel: 0
-        Chance: 100
+        Chance: 50
         DisplayColor: {r: 0.5058824, g: 0.14117648, b: 0.5686275, a: 1}
         Timing:
           TimescaleMode: 0
