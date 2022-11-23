@@ -36,7 +36,7 @@ MonoBehaviour:
   ShortDescription: Small but powerful
   Description: A handgun is a short-barreled firearm designed to be fired with only
     one hand.
-  Icon: {fileID: 21300002, guid: b528708a5a8f28343aefa9e1d46670a7, type: 3}
+  Icon: {fileID: 21300000, guid: 178c431ed69d247478ece927cc2f721e, type: 3}
   Prefab: {fileID: 1877469732588648, guid: 53ee902c07ac1aa428a402d658f2b3d9, type: 3}
   DropProperties:
     Shape: 0

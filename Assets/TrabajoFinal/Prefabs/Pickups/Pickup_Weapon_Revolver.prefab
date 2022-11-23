@@ -582,7 +582,7 @@ Animator:
   m_GameObject: {fileID: 1376858806580708}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 8c642f38b9dd9434eb5948fa92f3cdd1, type: 2}
+  m_Controller: {fileID: 9100000, guid: 0cb5b77c543c41840b0bde530a7a9940, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -2104,7 +2104,7 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 0.9960785, g: 0.8705883, b: 0.054901965, a: 1}
+        key0: {r: 0.24705884, g: 1, b: 1, a: 1}
         key1: {r: 1, g: 1, b: 1, a: 0}
         key2: {r: 0, g: 0, b: 0, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
@@ -2133,7 +2133,7 @@ ParticleSystem:
         m_NumAlphaKeys: 2
       minGradient:
         serializedVersion: 2
-        key0: {r: 0.9921569, g: 0.8980393, b: 0.28627452, a: 1}
+        key0: {r: 0.039215688, g: 0.9450981, b: 0.9725491, a: 1}
         key1: {r: 1, g: 1, b: 1, a: 0}
         key2: {r: 0, g: 0, b: 0, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}

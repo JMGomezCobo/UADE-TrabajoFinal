@@ -4932,7 +4932,7 @@ GameObject:
   - component: {fileID: 198737825030124308}
   - component: {fileID: 199304022238295344}
   m_Layer: 0
-  m_Name: CollectionExplosionGreen
+  m_Name: KoalaCollectionExplosionGreen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

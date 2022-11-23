@@ -31,7 +31,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4943838447161096}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!198 &198636575736016878
 ParticleSystem:
@@ -5071,9 +5071,9 @@ Transform:
   m_Children:
   - {fileID: 4322627176265138}
   - {fileID: 2531557212405381624}
+  - {fileID: 1981740761161298838}
   - {fileID: 4921664011988614}
   - {fileID: 4595760819738216}
-  - {fileID: 1981740761161298838}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -5151,7 +5151,7 @@ MonoBehaviour:
   SpawnTransforms:
   - {fileID: 1981740761161298838}
   SpawnTransformsMode: 1
-  Spread: {x: 0, y: 20, z: 0}
+  Spread: {x: 0, y: 45, z: 0}
   RotateWeaponOnSpread: 1
   RandomSpread: 1
   SpawnPosition: {x: 2.15, y: 0.025, z: 0}
@@ -5237,7 +5237,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AmmoID: KoalaRifleAmmo
   AmmoInventoryName: KoalaMainInventory
-  MaxAmmo: 100
+  MaxAmmo: 120
   ShouldLoadOnStart: 1
   ShouldEmptyOnSave: 1
   CurrentAmmoAvailable: 0
@@ -5270,7 +5270,7 @@ GameObject:
   - component: {fileID: 4616784861444994}
   - component: {fileID: 212409535536248356}
   m_Layer: 0
-  m_Name: ModelContainer
+  m_Name: Weapon_Sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5376,7 +5376,7 @@ Transform:
   - {fileID: 4906529262087276}
   - {fileID: 4284800662257128}
   m_Father: {fileID: 4943838447161096}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!198 &198651910794900294
 ParticleSystem:
@@ -21151,7 +21151,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4943838447161096}
-  m_RootOrder: 4
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &8457371706522320552
 GameObject:

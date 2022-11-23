@@ -5460,7 +5460,7 @@ MonoBehaviour:
           TargetBPM: 120
         Owner: {fileID: 31552433389457295}
         DebugActive: 0
-        GameObjectToInstantiate: {fileID: 1381411408848946, guid: 925923046384f284f9fa9a692d832d2c,
+        GameObjectToInstantiate: {fileID: 1381411408848946, guid: 096fea04a94809d47b8855d14e80f500,
           type: 3}
         PositionMode: 0
         AlsoApplyRotation: 0
