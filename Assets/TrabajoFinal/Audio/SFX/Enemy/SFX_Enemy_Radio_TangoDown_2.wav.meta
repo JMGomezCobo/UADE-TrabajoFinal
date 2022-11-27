@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: bb9c57832f7c1374ebf12f44c31eba15
+labels:
+- Audio
 AudioImporter:
   externalObjects: {}
   serializedVersion: 6
@@ -18,5 +20,5 @@ AudioImporter:
   ambisonic: 0
   3D: 1
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: audio
+  assetBundleVariant: sfx

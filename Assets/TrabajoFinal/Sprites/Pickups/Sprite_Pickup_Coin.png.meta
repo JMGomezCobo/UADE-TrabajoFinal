@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: ae58a0fe793d2df4ba945f172965b02a
+labels:
+- Prop
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -118,5 +120,5 @@ TextureImporter:
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: sprites
+  assetBundleVariant: pickups

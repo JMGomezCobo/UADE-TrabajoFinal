@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 67536220b2a5f464b81e432214439f44
+labels:
+- Prop
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -3293,19 +3295,19 @@ TextureImporter:
       Spritesheet_Pickup_Ammo_PlasmaRifle_34: -1729199395
       Spritesheet_Pickup_Ammo_PlasmaRifle_87: -1655254878
       Spritesheet_Pickup_Ammo_PlasmaRifle_112: -129360324
+      Spritesheet_Pickup_Ammo_PlasmaRifle_79: -983566452
       Spritesheet_Pickup_Ammo_PlasmaRifle_16: 1953159356
-      Spritesheet_Pickup_Ammo_PlasmaRifle_42: -2117706752
       Spritesheet_Pickup_Ammo_PlasmaRifle_124: -502804175
+      Spritesheet_Pickup_Ammo_PlasmaRifle_42: -2117706752
+      Spritesheet_Pickup_Ammo_PlasmaRifle_107: -37200260
+      Spritesheet_Pickup_Ammo_PlasmaRifle_123: 1625941217
       Spritesheet_Pickup_Ammo_PlasmaRifle_44: -986662195
       Spritesheet_Pickup_Ammo_PlasmaRifle_36: -266607273
       Spritesheet_Pickup_Ammo_PlasmaRifle_41: -612567947
-      Spritesheet_Pickup_Ammo_PlasmaRifle_50: 1362430380
-      Spritesheet_Pickup_Ammo_PlasmaRifle_107: -37200260
-      Spritesheet_Pickup_Ammo_PlasmaRifle_121: -484338297
       Spritesheet_Pickup_Ammo_PlasmaRifle_51: -1177347041
-      Spritesheet_Pickup_Ammo_PlasmaRifle_79: -983566452
-      Spritesheet_Pickup_Ammo_PlasmaRifle_123: 1625941217
+      Spritesheet_Pickup_Ammo_PlasmaRifle_121: -484338297
       Spritesheet_Pickup_Ammo_PlasmaRifle_60: 765873033
+      Spritesheet_Pickup_Ammo_PlasmaRifle_50: 1362430380
       Spritesheet_Pickup_Ammo_PlasmaRifle_96: 1055087607
       Spritesheet_Pickup_Ammo_PlasmaRifle_99: -1674196087
       Spritesheet_Pickup_Ammo_PlasmaRifle_75: -360044321
@@ -3345,8 +3347,8 @@ TextureImporter:
       Spritesheet_Pickup_Ammo_PlasmaRifle_66: -264427286
       Spritesheet_Pickup_Ammo_PlasmaRifle_47: -1976488309
       Spritesheet_Pickup_Ammo_PlasmaRifle_28: 1073007302
-      Spritesheet_Pickup_Ammo_PlasmaRifle_69: -458617393
       Spritesheet_Pickup_Ammo_PlasmaRifle_134: -1053382107
+      Spritesheet_Pickup_Ammo_PlasmaRifle_69: -458617393
       Spritesheet_Pickup_Ammo_PlasmaRifle_14: 1237419487
       Spritesheet_Pickup_Ammo_PlasmaRifle_56: -1754719369
       Spritesheet_Pickup_Ammo_PlasmaRifle_118: -118822732
@@ -3418,5 +3420,5 @@ TextureImporter:
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: sprites
+  assetBundleVariant: pickups

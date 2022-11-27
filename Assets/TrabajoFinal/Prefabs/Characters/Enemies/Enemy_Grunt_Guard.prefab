@@ -5408,7 +5408,7 @@ MonoBehaviour:
   AbilityPermitted: 1
   BlockingMovementStates: 
   BlockingConditionStates: 
-  InitialWeapon: {fileID: 114317679573123918, guid: 1b80d0a781b16184f8eeec786984fe3a,
+  InitialWeapon: {fileID: 114317679573123918, guid: 32d39d32a730f2e4cb5173e5a9eb329f,
     type: 3}
   CanPickupWeapons: 1
   WeaponUseFeedback: {fileID: 0}
@@ -5876,13 +5876,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d9bf1ac07f3659498e89157301c9746, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LootMode: 0
+  LootMode: 2
   GameObjectToLoot: {fileID: 1285005204474166, guid: 26615dc5bedcf8349b8dc80d84a1487b,
     type: 3}
   LootTable:
     ObjectsToLoot: []
     WeightsTotal: 0
-  LootTableSO: {fileID: 0}
+  LootTableSO: {fileID: 11400000, guid: b0ac3e4c5955a2a4ea6c02a13773a5b0, type: 2}
   SpawnLootOnDeath: 1
   SpawnLootOnDamage: 0
   PoolLoot: 0

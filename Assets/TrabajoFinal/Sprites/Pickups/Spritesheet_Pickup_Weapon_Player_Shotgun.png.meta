@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 5db6cf3f85c97bc4f912b8ecc1ca98fd
+labels:
+- Prop
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -3297,13 +3299,13 @@ TextureImporter:
       Pickup_Weapon_Player_Shotgun_63: 1662917625
       Pickup_Weapon_Player_Shotgun_65: -509088347
       Pickup_Weapon_Player_Shotgun_17: 78073332
-      Pickup_Weapon_Player_Shotgun_94: -1984112264
+      Pickup_Weapon_Player_Shotgun_76: 828787482
       Pickup_Weapon_Player_Shotgun_51: -1560017067
       Pickup_Weapon_Player_Shotgun_92: 306045397
-      Pickup_Weapon_Player_Shotgun_144: 567285129
+      Pickup_Weapon_Player_Shotgun_94: -1984112264
       Pickup_Weapon_Player_Shotgun_39: -3317025
       Pickup_Weapon_Player_Shotgun_74: 498489195
-      Pickup_Weapon_Player_Shotgun_76: 828787482
+      Pickup_Weapon_Player_Shotgun_144: 567285129
       Pickup_Weapon_Player_Shotgun_127: -1211740433
       Pickup_Weapon_Player_Shotgun_70: 279438276
       Pickup_Weapon_Player_Shotgun_55: 1450449433
@@ -3418,5 +3420,5 @@ TextureImporter:
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: sprites
+  assetBundleVariant: pickups

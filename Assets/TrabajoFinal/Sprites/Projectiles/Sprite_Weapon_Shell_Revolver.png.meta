@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: d69e09b3d1929d74783fa85958a7aeb9
+labels:
+- Weapon
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -142,5 +144,5 @@ TextureImporter:
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: sprites
+  assetBundleVariant: projectiles

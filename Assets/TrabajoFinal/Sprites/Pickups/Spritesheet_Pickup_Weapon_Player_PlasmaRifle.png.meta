@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 297b646e3a3e0d642b9e7dbcebf984d2
+labels:
+- Prop
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -3266,7 +3268,6 @@ TextureImporter:
     nameFileIdTable:
       Pickup_Weapon_Player_PlasmaRifle_68: 336156188
       Pickup_Weapon_Player_PlasmaRifle_135: 1970678831
-      Pickup_Weapon_Player_PlasmaRifle_54: 1042201444
       Pickup_Weapon_Player_PlasmaRifle_73: -1730655487
       Pickup_Weapon_Player_PlasmaRifle_62: 5957347
       Pickup_Weapon_Player_PlasmaRifle_105: -1889569540
@@ -3293,8 +3294,8 @@ TextureImporter:
       Pickup_Weapon_Player_PlasmaRifle_35: -1263443904
       Pickup_Weapon_Player_PlasmaRifle_120: 1669314205
       Pickup_Weapon_Player_PlasmaRifle_70: -2017392705
-      Pickup_Weapon_Player_PlasmaRifle_141: 1425319770
       Pickup_Weapon_Player_PlasmaRifle_19: -1175651908
+      Pickup_Weapon_Player_PlasmaRifle_141: 1425319770
       Pickup_Weapon_Player_PlasmaRifle_28: -984822846
       Pickup_Weapon_Player_PlasmaRifle_9: -2119692230
       Pickup_Weapon_Player_PlasmaRifle_6: 1245342400
@@ -3321,12 +3322,12 @@ TextureImporter:
       Pickup_Weapon_Player_PlasmaRifle_144: -2136152273
       Pickup_Weapon_Player_PlasmaRifle_149: 425189905
       Pickup_Weapon_Player_PlasmaRifle_145: 1339653043
-      Pickup_Weapon_Player_PlasmaRifle_20: -1768548054
       Pickup_Weapon_Player_PlasmaRifle_41: 549662670
-      Pickup_Weapon_Player_PlasmaRifle_4: 876353322
       Pickup_Weapon_Player_PlasmaRifle_1: -700942473
       Pickup_Weapon_Player_PlasmaRifle_64: 691076405
       Pickup_Weapon_Player_PlasmaRifle_10: 320401941
+      Pickup_Weapon_Player_PlasmaRifle_4: 876353322
+      Pickup_Weapon_Player_PlasmaRifle_20: -1768548054
       Pickup_Weapon_Player_PlasmaRifle_110: -496405485
       Pickup_Weapon_Player_PlasmaRifle_127: 1736067754
       Pickup_Weapon_Player_PlasmaRifle_79: 74627037
@@ -3389,11 +3390,12 @@ TextureImporter:
       Pickup_Weapon_Player_PlasmaRifle_60: -878071316
       Pickup_Weapon_Player_PlasmaRifle_57: 631618188
       Pickup_Weapon_Player_PlasmaRifle_13: 3676189
-      Pickup_Weapon_Player_PlasmaRifle_50: 1252463475
+      Pickup_Weapon_Player_PlasmaRifle_137: -206828701
       Pickup_Weapon_Player_PlasmaRifle_69: 660861771
-      Pickup_Weapon_Player_PlasmaRifle_125: 1746548301
+      Pickup_Weapon_Player_PlasmaRifle_50: 1252463475
       Pickup_Weapon_Player_PlasmaRifle_37: 563958778
       Pickup_Weapon_Player_PlasmaRifle_65: 2096061406
+      Pickup_Weapon_Player_PlasmaRifle_125: 1746548301
       Pickup_Weapon_Player_PlasmaRifle_132: 703032062
       Pickup_Weapon_Player_PlasmaRifle_136: -1796348867
       Pickup_Weapon_Player_PlasmaRifle_139: 1710074611
@@ -3410,13 +3412,13 @@ TextureImporter:
       Pickup_Weapon_Player_PlasmaRifle_119: 649833148
       Pickup_Weapon_Player_PlasmaRifle_38: -73294189
       Pickup_Weapon_Player_PlasmaRifle_106: 750245753
-      Pickup_Weapon_Player_PlasmaRifle_89: 1979939897
+      Pickup_Weapon_Player_PlasmaRifle_54: 1042201444
       Pickup_Weapon_Player_PlasmaRifle_71: 1513558620
-      Pickup_Weapon_Player_PlasmaRifle_137: -206828701
+      Pickup_Weapon_Player_PlasmaRifle_89: 1979939897
       Pickup_Weapon_Player_PlasmaRifle_102: -1711856028
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: sprites
+  assetBundleVariant: pickups

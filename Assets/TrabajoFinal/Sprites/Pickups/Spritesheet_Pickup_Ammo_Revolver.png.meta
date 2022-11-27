@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: f0339a8dbd378d741b296ddddd17117d
+labels:
+- Prop
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -3264,7 +3266,6 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Spritesheet_Pickup_Ammo_Revolver_135: 386590459
       Spritesheet_Pickup_Ammo_Revolver_7: -901520848
       Spritesheet_Pickup_Ammo_Revolver_35: 963988737
       Spritesheet_Pickup_Ammo_Revolver_60: -1198164656
@@ -3281,7 +3282,6 @@ TextureImporter:
       Spritesheet_Pickup_Ammo_Revolver_144: 1931821621
       Spritesheet_Pickup_Ammo_Revolver_115: 1587025181
       Spritesheet_Pickup_Ammo_Revolver_141: -439873153
-      Spritesheet_Pickup_Ammo_Revolver_138: 750078284
       Spritesheet_Pickup_Ammo_Revolver_5: -654061961
       Spritesheet_Pickup_Ammo_Revolver_119: 1914874070
       Spritesheet_Pickup_Ammo_Revolver_68: 1066370375
@@ -3391,26 +3391,28 @@ TextureImporter:
       Spritesheet_Pickup_Ammo_Revolver_95: 1654704434
       Spritesheet_Pickup_Ammo_Revolver_66: 1231799018
       Spritesheet_Pickup_Ammo_Revolver_48: 1623478218
+      Spritesheet_Pickup_Ammo_Revolver_138: 750078284
       Spritesheet_Pickup_Ammo_Revolver_21: 388823461
-      Spritesheet_Pickup_Ammo_Revolver_25: -724119330
       Spritesheet_Pickup_Ammo_Revolver_47: -1700696464
+      Spritesheet_Pickup_Ammo_Revolver_25: -724119330
       Spritesheet_Pickup_Ammo_Revolver_114: -1068224698
       Spritesheet_Pickup_Ammo_Revolver_24: -70855449
-      Spritesheet_Pickup_Ammo_Revolver_86: -1700523509
       Spritesheet_Pickup_Ammo_Revolver_132: -690790247
       Spritesheet_Pickup_Ammo_Revolver_136: 2139392383
       Spritesheet_Pickup_Ammo_Revolver_39: -2062571031
-      Spritesheet_Pickup_Ammo_Revolver_92: 1911609497
+      Spritesheet_Pickup_Ammo_Revolver_86: -1700523509
       Spritesheet_Pickup_Ammo_Revolver_4: 58305107
       Spritesheet_Pickup_Ammo_Revolver_30: -1733747201
       Spritesheet_Pickup_Ammo_Revolver_1: 2003622461
       Spritesheet_Pickup_Ammo_Revolver_121: 578986260
-      Spritesheet_Pickup_Ammo_Revolver_50: 2064722208
+      Spritesheet_Pickup_Ammo_Revolver_92: 1911609497
       Spritesheet_Pickup_Ammo_Revolver_104: 897405602
-      Spritesheet_Pickup_Ammo_Revolver_56: -1097525303
+      Spritesheet_Pickup_Ammo_Revolver_50: 2064722208
+      Spritesheet_Pickup_Ammo_Revolver_135: 386590459
       Spritesheet_Pickup_Ammo_Revolver_105: 1921248460
-      Spritesheet_Pickup_Ammo_Revolver_63: 1526338894
+      Spritesheet_Pickup_Ammo_Revolver_56: -1097525303
       Spritesheet_Pickup_Ammo_Revolver_134: 1398367207
+      Spritesheet_Pickup_Ammo_Revolver_63: 1526338894
       Spritesheet_Pickup_Ammo_Revolver_16: 900583655
       Spritesheet_Pickup_Ammo_Revolver_81: 818330706
       Spritesheet_Pickup_Ammo_Revolver_85: -201001203
@@ -3418,5 +3420,5 @@ TextureImporter:
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: sprites
+  assetBundleVariant: pickups

@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: b751f78a7889def4a92b32661b487662
+labels:
+- Prop
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -3264,19 +3266,19 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Spritesheet_Pickup_Coin_95: 1189846512
+      Spritesheet_Pickup_Coin_8: -1413476849
       Spritesheet_Pickup_Coin_26: -1950761804
       Spritesheet_Pickup_Coin_44: 918280587
       Spritesheet_Pickup_Coin_30: 236125315
-      Spritesheet_Pickup_Coin_110: 1725207398
+      Spritesheet_Pickup_Coin_121: 808344462
       Spritesheet_Pickup_Coin_75: -16886708
       Spritesheet_Pickup_Coin_135: -1159439622
-      Spritesheet_Pickup_Coin_121: 808344462
       Spritesheet_Pickup_Coin_42: -1198479139
       Spritesheet_Pickup_Coin_10: 854900490
       Spritesheet_Pickup_Coin_104: 997696769
       Spritesheet_Pickup_Coin_72: -1455037689
       Spritesheet_Pickup_Coin_106: 868723161
+      Spritesheet_Pickup_Coin_95: 1189846512
       Spritesheet_Pickup_Coin_35: 1035581336
       Spritesheet_Pickup_Coin_5: -7516160
       Spritesheet_Pickup_Coin_90: -1802430101
@@ -3291,10 +3293,10 @@ TextureImporter:
       Spritesheet_Pickup_Coin_71: -709760608
       Spritesheet_Pickup_Coin_77: -283445073
       Spritesheet_Pickup_Coin_130: -560539584
+      Spritesheet_Pickup_Coin_113: 2119279969
       Spritesheet_Pickup_Coin_3: 759869584
       Spritesheet_Pickup_Coin_57: -487491666
       Spritesheet_Pickup_Coin_101: 1527138248
-      Spritesheet_Pickup_Coin_113: 2119279969
       Spritesheet_Pickup_Coin_84: 1687671930
       Spritesheet_Pickup_Coin_55: -1970044407
       Spritesheet_Pickup_Coin_93: -1236898227
@@ -3304,10 +3306,10 @@ TextureImporter:
       Spritesheet_Pickup_Coin_36: -1948445919
       Spritesheet_Pickup_Coin_99: -432135600
       Spritesheet_Pickup_Coin_0: -1363464407
-      Spritesheet_Pickup_Coin_33: -1727492394
       Spritesheet_Pickup_Coin_50: 664320605
-      Spritesheet_Pickup_Coin_111: 2073528337
       Spritesheet_Pickup_Coin_66: -844818333
+      Spritesheet_Pickup_Coin_33: -1727492394
+      Spritesheet_Pickup_Coin_111: 2073528337
       Spritesheet_Pickup_Coin_129: -330431431
       Spritesheet_Pickup_Coin_47: 2105381172
       Spritesheet_Pickup_Coin_128: -251166215
@@ -3322,22 +3324,22 @@ TextureImporter:
       Spritesheet_Pickup_Coin_126: 2002198759
       Spritesheet_Pickup_Coin_74: -1706276342
       Spritesheet_Pickup_Coin_15: 1713833149
-      Spritesheet_Pickup_Coin_100: 1996836478
+      Spritesheet_Pickup_Coin_112: 1670407052
       Spritesheet_Pickup_Coin_17: 975899856
       Spritesheet_Pickup_Coin_49: -915778533
+      Spritesheet_Pickup_Coin_100: 1996836478
       Spritesheet_Pickup_Coin_6: 987936657
-      Spritesheet_Pickup_Coin_138: 2124133389
       Spritesheet_Pickup_Coin_105: -1350319817
       Spritesheet_Pickup_Coin_28: 660707466
       Spritesheet_Pickup_Coin_139: -442686077
       Spritesheet_Pickup_Coin_59: -1898240642
+      Spritesheet_Pickup_Coin_138: 2124133389
       Spritesheet_Pickup_Coin_107: -1917734287
       Spritesheet_Pickup_Coin_13: 285521059
       Spritesheet_Pickup_Coin_109: -937727018
       Spritesheet_Pickup_Coin_134: -1806745399
       Spritesheet_Pickup_Coin_108: 1298023811
       Spritesheet_Pickup_Coin_98: -172371896
-      Spritesheet_Pickup_Coin_112: 1670407052
       Spritesheet_Pickup_Coin_34: 569648257
       Spritesheet_Pickup_Coin_116: -1345105696
       Spritesheet_Pickup_Coin_62: -76078258
@@ -3410,13 +3412,13 @@ TextureImporter:
       Spritesheet_Pickup_Coin_1: 307070238
       Spritesheet_Pickup_Coin_7: -990852751
       Spritesheet_Pickup_Coin_41: -25423883
+      Spritesheet_Pickup_Coin_110: 1725207398
       Spritesheet_Pickup_Coin_38: 165363022
-      Spritesheet_Pickup_Coin_8: -1413476849
       Spritesheet_Pickup_Coin_58: 20166116
       Spritesheet_Pickup_Coin_94: 1797278915
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: sprites
+  assetBundleVariant: pickups

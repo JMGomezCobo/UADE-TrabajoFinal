@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: e2fdd2ee4b9901a439ec70109e35355f
+labels:
+- Character
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -417,5 +419,5 @@ TextureImporter:
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: sprites
+  assetBundleVariant: characters
